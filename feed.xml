@@ -5,13 +5,19 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jan 2018 22:41:24 +0100</pubDate>
-    <lastBuildDate>Thu, 25 Jan 2018 22:41:24 +0100</lastBuildDate>
+    <pubDate>Thu, 25 Jan 2018 23:25:54 +0100</pubDate>
+    <lastBuildDate>Thu, 25 Jan 2018 23:25:54 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Déployer un site web statique en https sur AWS</title>
         <description>&lt;h1 id=&quot;cration-du-domaine-et-de-son-certificat&quot;&gt;Création du domaine et de son certificat&lt;/h1&gt;
+
+&lt;p&gt;La première étape consiste à créer un domain et son certificat.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;aws cloudformation deploy –stack-name domain-stack –template-file domain.cfn.yml –parameter-overrides DomainName=example.com –capabilities CAPABILITY_IAM –region eu-west-3&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;s&quot;&gt;AWSTemplateFormatVersion&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;2010-09-09&quot;&lt;/span&gt;
 
@@ -46,7 +52,17 @@
       &lt;span class=&quot;s&quot;&gt;SubjectAlternativeNames&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
       &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Join&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;*.'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;DomainName&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;]]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
+&lt;p&gt;Lors du traitement de cette stack, il faut penser à vérifier ses mails afin de valider la création du certificat.
+Une fois la stack créée, il est nécessaire de manuellement modifier les noms des serveurs DNS du domaine, je ne connais pas de solution industrialisée.&lt;/p&gt;
+
 &lt;h1 id=&quot;cration-du-sous-domain&quot;&gt;Création du sous domain&lt;/h1&gt;
+
+&lt;p&gt;Maintenant qu’on a un domain valide, il est possible de créer autant de sous domaines qu’on veut aussi bien le www que rien.
+La stack suivante permet de fournir un S3 qui est un dépôt de fichiers statiques, un CDN (CloudFront) et de lier le tout au domaine.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;aws cloudformation deploy –stack-name domain-stack –template-file subdomain.cfn.yml –parameter-overrides AcmCertificateArn=arn:aws:cloudfront::9999999999999999:distribution/XXXXXXXXXXXXXXXXX HostedZone=example.com Subdomain=www.example.com  –capabilities CAPABILITY_IAM –region eu-west-3&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;s&quot;&gt;AWSTemplateFormatVersion&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;2010-09-09'&lt;/span&gt;
 
@@ -172,6 +188,9 @@
       &lt;span class=&quot;s&quot;&gt;AliasTarget&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
         &lt;span class=&quot;s&quot;&gt;HostedZoneId&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Z2FDTNDATAQYW2&lt;/span&gt;
         &lt;span class=&quot;s&quot;&gt;DNSName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!GetAtt&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;WebsiteCDN&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;DomainName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;La création du CDN est long, il faut s’armer de patience.
+Une fois la stack créée, le site est disponible à la fois en http et en https. Pour être exact, les requête http seront redirigées en https.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Jan 2017 21:51:00 +0100</pubDate>
         <link>https://victorsalaun.github.io/aws/deploy-static-app-cloudfront-domain-https.html</link>

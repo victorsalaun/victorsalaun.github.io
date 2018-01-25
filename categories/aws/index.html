@@ -218,6 +218,12 @@
     <div class="post-content">
         <h1 id="cration-du-domaine-et-de-son-certificat">Création du domaine et de son certificat</h1>
 
+<p>La première étape consiste à créer un domain et son certificat.</p>
+
+<blockquote>
+  <p>aws cloudformation deploy –stack-name domain-stack –template-file domain.cfn.yml –parameter-overrides DomainName=example.com –capabilities CAPABILITY_IAM –region eu-west-3</p>
+</blockquote>
+
 <figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="s">AWSTemplateFormatVersion</span><span class="pi">:</span> <span class="s2">"</span><span class="s">2010-09-09"</span>
 
 <span class="s">Description</span><span class="pi">:</span> <span class="s">Route53 Hosted Zone + Certificate</span>
@@ -251,7 +257,17 @@
       <span class="s">SubjectAlternativeNames</span><span class="pi">:</span>
       <span class="pi">-</span> <span class="kt">!Join</span> <span class="pi">[</span> <span class="s1">'</span><span class="s">'</span><span class="pi">,</span> <span class="pi">[</span><span class="s1">'</span><span class="s">*.'</span><span class="pi">,</span> <span class="kt">!Ref</span> <span class="nv">DomainName</span> <span class="pi">]]</span></code></pre></figure>
 
+<p>Lors du traitement de cette stack, il faut penser à vérifier ses mails afin de valider la création du certificat.
+Une fois la stack créée, il est nécessaire de manuellement modifier les noms des serveurs DNS du domaine, je ne connais pas de solution industrialisée.</p>
+
 <h1 id="cration-du-sous-domain">Création du sous domain</h1>
+
+<p>Maintenant qu’on a un domain valide, il est possible de créer autant de sous domaines qu’on veut aussi bien le www que rien.
+La stack suivante permet de fournir un S3 qui est un dépôt de fichiers statiques, un CDN (CloudFront) et de lier le tout au domaine.</p>
+
+<blockquote>
+  <p>aws cloudformation deploy –stack-name domain-stack –template-file subdomain.cfn.yml –parameter-overrides AcmCertificateArn=arn:aws:cloudfront::9999999999999999:distribution/XXXXXXXXXXXXXXXXX HostedZone=example.com Subdomain=www.example.com  –capabilities CAPABILITY_IAM –region eu-west-3</p>
+</blockquote>
 
 <figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="s">AWSTemplateFormatVersion</span><span class="pi">:</span> <span class="s1">'</span><span class="s">2010-09-09'</span>
 
@@ -378,6 +394,9 @@
         <span class="s">HostedZoneId</span><span class="pi">:</span> <span class="s">Z2FDTNDATAQYW2</span>
         <span class="s">DNSName</span><span class="pi">:</span> <span class="kt">!GetAtt</span> <span class="pi">[</span><span class="nv">WebsiteCDN</span><span class="pi">,</span> <span class="nv">DomainName</span><span class="pi">]</span></code></pre></figure>
 
+<p>La création du CDN est long, il faut s’armer de patience.
+Une fois la stack créée, le site est disponible à la fois en http et en https. Pour être exact, les requête http seront redirigées en https.</p>
+
 
         
         <p><a href="/aws/deploy-static-app-cloudfront-domain-https.html" role="button">Read More</a></p>
@@ -390,11 +409,10 @@
                 <li class="share-facebook"><a
                         href="https://www.facebook.com/sharer.php?s=100&p[title]=Déployer un site web statique en https sur AWS&p[summary]=Création du domaine et de son certificat
 
-AWSTemplateFormatVersion: "2010-09-09"
+La première étape consiste à créer un domain et son certificat.
 
-Description: Route53 Hosted Zone + Certificate
 
-Paramet...&p[url]=https://victorsalaun.github.io/aws/deploy-static-app-cloudfront-domain-https.html"
+  aws cloudformation deploy –...&p[url]=https://victorsalaun.github.io/aws/deploy-static-app-cloudfront-domain-https.html"
                         class="s_facebook" target="_blank"
                         onclick="window.open(this.href, '','width=700,height=300');return false;">
                     <svg title="" width="16" height="16">
@@ -405,11 +423,10 @@ Paramet...&p[url]=https://victorsalaun.github.io/aws/deploy-static-app-cloudfron
                 <li class="share-twitter"><a
                         href="http://twitter.com/share?url=https://victorsalaun.github.io/aws/deploy-static-app-cloudfront-domain-https.html&text=Création du domaine et de son certificat
 
-AWSTemplateFormatVersion: "2010-09-09"
+La première étape consiste à créer un domain et son certificat.
 
-Description: Route53 Hosted Zone + Certificate
 
-Paramet...&hashtags=aws,"
+  aws cloudformation deploy –...&hashtags=aws,"
                         rel="noreferrer" target="_blank"
                         onclick="window.open(this.href, '','width=700,height=300');return false;">
                     <svg title="" width="16" height="16">
