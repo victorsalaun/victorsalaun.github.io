@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jan 2018 23:25:54 +0100</pubDate>
-    <lastBuildDate>Thu, 25 Jan 2018 23:25:54 +0100</lastBuildDate>
+    <pubDate>Thu, 25 Jan 2018 23:41:10 +0100</pubDate>
+    <lastBuildDate>Thu, 25 Jan 2018 23:41:10 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -61,7 +61,7 @@ Une fois la stack créée, il est nécessaire de manuellement modifier les noms 
 La stack suivante permet de fournir un S3 qui est un dépôt de fichiers statiques, un CDN (CloudFront) et de lier le tout au domaine.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;aws cloudformation deploy –stack-name domain-stack –template-file subdomain.cfn.yml –parameter-overrides AcmCertificateArn=arn:aws:cloudfront::9999999999999999:distribution/XXXXXXXXXXXXXXXXX HostedZone=example.com Subdomain=www.example.com  –capabilities CAPABILITY_IAM –region eu-west-3&lt;/p&gt;
+  &lt;p&gt;aws cloudformation deploy –stack-name domain-stack –template-file subdomain.cfn.yml –parameter-overrides AcmCertificateArn=arn:aws:cloudfront::99999999999:distribution/XXXXXXXXXXXX HostedZone=example.com Subdomain=www.example.com  –capabilities CAPABILITY_IAM –region eu-west-3&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;s&quot;&gt;AWSTemplateFormatVersion&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;2010-09-09'&lt;/span&gt;
@@ -189,7 +189,7 @@ La stack suivante permet de fournir un S3 qui est un dépôt de fichiers statiqu
         &lt;span class=&quot;s&quot;&gt;HostedZoneId&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Z2FDTNDATAQYW2&lt;/span&gt;
         &lt;span class=&quot;s&quot;&gt;DNSName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!GetAtt&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;WebsiteCDN&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;DomainName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;La création du CDN est long, il faut s’armer de patience.
+&lt;p&gt;La création du CDN est long, il faut s’armer de patience, mais c’est aussi le bon moment pour débuter le transfert du site vers S3.
 Une fois la stack créée, le site est disponible à la fois en http et en https. Pour être exact, les requête http seront redirigées en https.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Jan 2017 21:51:00 +0100</pubDate>
