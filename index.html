@@ -219,7 +219,7 @@
 <p>La première étape consiste à créer un domain et son certificat.</p>
 
 <blockquote>
-  <p>aws cloudformation deploy –stack-name domain-stack –template-file domain.cfn.yml –parameter-overrides DomainName=example.com –capabilities CAPABILITY_IAM –region eu-west-3</p>
+  <p>aws cloudformation deploy –stack-name domain-stack –template-file domain.cfn.yml –parameter-overrides DomainName=example.com –capabilities CAPABILITY_IAM –region us-east-1</p>
 </blockquote>
 
 <figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="s">AWSTemplateFormatVersion</span><span class="pi">:</span> <span class="s2">"</span><span class="s">2010-09-09"</span>
@@ -255,13 +255,15 @@
       <span class="s">SubjectAlternativeNames</span><span class="pi">:</span>
       <span class="pi">-</span> <span class="kt">!Join</span> <span class="pi">[</span> <span class="s1">'</span><span class="s">'</span><span class="pi">,</span> <span class="pi">[</span><span class="s1">'</span><span class="s">*.'</span><span class="pi">,</span> <span class="kt">!Ref</span> <span class="nv">DomainName</span> <span class="pi">]]</span></code></pre></figure>
 
-<p>Lors du traitement de cette stack, il faut penser à vérifier ses mails afin de valider la création du certificat.
-Une fois la stack créée, il est nécessaire de manuellement modifier les noms des serveurs DNS du domaine, je ne connais pas de solution industrialisée.</p>
+<p>Lors du traitement de cette stack, il faut penser à vérifier ses mails afin de valider la création du certificat.</p>
+
+<p>Une fois la stack créée, il est nécessaire de manuellement modifier les noms des serveurs DNS du domaine, je ne connais pas de solution industrialisée.</p>
 
 <h1 id="cration-du-sous-domain">Création du sous domain</h1>
 
-<p>Maintenant qu’on a un domain valide, il est possible de créer autant de sous domaines qu’on veut aussi bien le www que rien.
-La stack suivante permet de fournir un S3 qui est un dépôt de fichiers statiques, un CDN (CloudFront) et de lier le tout au domaine.</p>
+<p>Maintenant qu’on a un domain valide, il est possible de créer autant de sous domaines qu’on veut aussi bien le www que rien.</p>
+
+<p>La stack suivante permet de fournir un S3 qui est un dépôt de fichiers statiques, un CDN (CloudFront) et de lier le tout au domaine.</p>
 
 <blockquote>
   <p>aws cloudformation deploy –stack-name domain-stack –template-file subdomain.cfn.yml –parameter-overrides AcmCertificateArn=arn:aws:cloudfront::99999999999:distribution/XXXXXXXXXXXX HostedZone=example.com Subdomain=www.example.com  –capabilities CAPABILITY_IAM –region eu-west-3</p>
@@ -392,8 +394,19 @@ La stack suivante permet de fournir un S3 qui est un dépôt de fichiers statiqu
         <span class="s">HostedZoneId</span><span class="pi">:</span> <span class="s">Z2FDTNDATAQYW2</span>
         <span class="s">DNSName</span><span class="pi">:</span> <span class="kt">!GetAtt</span> <span class="pi">[</span><span class="nv">WebsiteCDN</span><span class="pi">,</span> <span class="nv">DomainName</span><span class="pi">]</span></code></pre></figure>
 
-<p>La création du CDN est long, il faut s’armer de patience, mais c’est aussi le bon moment pour débuter le transfert du site vers S3.
-Une fois la stack créée, le site est disponible à la fois en http et en https. Pour être exact, les requête http seront redirigées en https.</p>
+<p>La création du CDN est long, il faut s’armer de patience, mais c’est aussi le bon moment pour débuter le transfert du site vers S3.</p>
+
+<p>Une fois la stack créée, le site est disponible à la fois en http et en https. Pour être exact, les requête http seront redirigées en https.</p>
+
+<p>Transférer ses données vers S3 peut se faire facilement via l’interface ou bien en ligne de commande.</p>
+
+<blockquote>
+  <p>aws s3 ls –region eu-west-3</p>
+</blockquote>
+
+<blockquote>
+  <p>aws s3 sync ./ s3://${WEBSITE_BUCKET} –region eu-west-3</p>
+</blockquote>
 
 
         
