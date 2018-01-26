@@ -265,10 +265,16 @@
 
 <p>Maintenant qu’on a un domain valide, il est possible de créer autant de sous domaines qu’on veut aussi bien le www que rien.</p>
 
+<p>Pour récupérer l’arn du certificat que l’on vient de créer :</p>
+
+<blockquote>
+  <p>aws acm list-certificates –region us-east-1</p>
+</blockquote>
+
 <p>La stack suivante permet de fournir un S3 qui est un dépôt de fichiers statiques, un CDN (CloudFront) et de lier le tout au domaine.</p>
 
 <blockquote>
-  <p>aws cloudformation deploy –stack-name domain-stack –template-file subdomain.cfn.yml –parameter-overrides AcmCertificateArn=arn:aws:cloudfront::99999999999:distribution/XXXXXXXXXXXX HostedZone=example.com Subdomain=www.example.com  –capabilities CAPABILITY_IAM –region eu-west-3</p>
+  <p>aws cloudformation deploy –stack-name subdomain-stack –template-file subdomain.cfn.yml –parameter-overrides AcmCertificateArn=arn:aws:cloudfront::99999999999:distribution/XXXXXXXXXXXX HostedZone=example.com Subdomain=www.example.com  –capabilities CAPABILITY_IAM –region eu-west-3</p>
 </blockquote>
 
 <figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="s">AWSTemplateFormatVersion</span><span class="pi">:</span> <span class="s1">'</span><span class="s">2010-09-09'</span>
@@ -398,7 +404,7 @@
 
 <p>La création du CDN est long, il faut s’armer de patience, mais c’est aussi le bon moment pour débuter le transfert du site vers S3.</p>
 
-<p>Une fois la stack créée, le site est disponible à la fois en http et en https. Pour être exact, les requête http seront redirigées en https.</p>
+<p>Une fois la stack créée, le site est disponible à la fois en http et en https. Pour être exact, les requêtes http seront redirigées en https.</p>
 
 <p>Transférer ses données vers S3 peut se faire facilement via l’interface ou bien en ligne de commande.</p>
 
