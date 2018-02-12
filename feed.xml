@@ -5,9 +5,34 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jan 2018 22:59:19 +0100</pubDate>
-    <lastBuildDate>Fri, 26 Jan 2018 22:59:19 +0100</lastBuildDate>
+    <pubDate>Mon, 12 Feb 2018 21:55:46 +0100</pubDate>
+    <lastBuildDate>Mon, 12 Feb 2018 21:55:46 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Carbon - Créer des images du code source</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/dawnlabs/carbon&quot; title=&quot;Carbon&quot;&gt;Carbon&lt;/a&gt; est un outil open source développé par l’équipe &lt;a href=&quot;https://dawnlabs.io/&quot; title=&quot;Dawn Labs&quot;&gt;Dawn Labs&lt;/a&gt; permettant de créer des images sympas affichant du code.&lt;/p&gt;
+
+&lt;p&gt;Prenons l’exemple de développeurs voulant diffuser du code sur Twitter, il peut copier coller tout simplement du code mais sera mal affiché ou faire une capture d’écran souvent mal adaptée à la taille de l’écran. C’est là que Carbon intervient.&lt;/p&gt;
+
+&lt;p&gt;En se rendant sur le site &lt;a href=&quot;https://carbon.now.sh&quot; title=&quot;https://carbon.now.sh&quot;&gt;https://carbon.now.sh&lt;/a&gt; il faut copier coller son code, choisir un thème ainsi que le language du code, nous obtenons l’image suivante :&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/carbon.png&quot; title=&quot;carbon.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Maintenant nous pouvons partager cette image sur Twitter, documenter nos markdown etc.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Feb 2018 20:58:00 +0100</pubDate>
+        <link>https://victorsalaun.github.io/documentation/carbon-create-beautiful-images-of-your-source-code.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/documentation/carbon-create-beautiful-images-of-your-source-code.html</guid>
+        
+        <category>documentation</category>
+        
+        
+        <category>documentation</category>
+        
+      </item>
     
       <item>
         <title>Déployer un site web statique en https sur AWS</title>
@@ -211,7 +236,7 @@
   &lt;p&gt;aws s3 sync ./ s3://${WEBSITE_BUCKET} –region eu-west-3&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Wed, 25 Jan 2017 21:51:00 +0100</pubDate>
+        <pubDate>Thu, 25 Jan 2018 21:51:00 +0100</pubDate>
         <link>https://victorsalaun.github.io/aws/deploy-static-app-cloudfront-domain-https.html</link>
         <guid isPermaLink="true">https://victorsalaun.github.io/aws/deploy-static-app-cloudfront-domain-https.html</guid>
         
