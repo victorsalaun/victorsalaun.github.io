@@ -5,9 +5,44 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Feb 2018 18:57:32 +0100</pubDate>
-    <lastBuildDate>Tue, 13 Feb 2018 18:57:32 +0100</lastBuildDate>
+    <pubDate>Tue, 06 Mar 2018 23:53:54 +0100</pubDate>
+    <lastBuildDate>Tue, 06 Mar 2018 23:53:54 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Terraform</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.terraform.io/&quot;&gt;Terraform&lt;/a&gt; est un outil d’infrastructure as code, multi-providers, open source, édité par &lt;a href=&quot;https://www.hashicorp.com/&quot;&gt;Hashicorp&lt;/a&gt;.
+Il permet de créer et modifier ses infrastructures et environements sous la forme de fichiers de configuration de manière prévisible.
+Le principal concept se base sur l’état de la cible, il s’agit donc d’une approche d’infrastructure immutable.&lt;/p&gt;
+
+&lt;p&gt;Avantages :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Est devenu un standard&lt;/li&gt;
+  &lt;li&gt;Large communauté&lt;/li&gt;
+  &lt;li&gt;Support multi-provides assuré dont AWS, Azure, GCE&lt;/li&gt;
+  &lt;li&gt;Reproductibilité via des modules&lt;/li&gt;
+  &lt;li&gt;Extensibilité par plugin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Inconvénients :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pas d’interface centralisée&lt;/li&gt;
+  &lt;li&gt;Nécessité de développer&lt;/li&gt;
+  &lt;li&gt;En fonction du provider, pas tous les services ne sont couverts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La création de modules permet de centraliser les usages et d’assurer une bonne réutilisabilité des modèles d’infrastructures par les équipes&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Feb 2018 20:58:00 +0100</pubDate>
+        <link>https://victorsalaun.github.io/devops/terraform-infrastructure-as-code.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/devops/terraform-infrastructure-as-code.html</guid>
+        
+        <category>devops, terraform</category>
+        
+        
+        <category>devops</category>
+        
+      </item>
     
       <item>
         <title>Carbon - Créer des images du code source</title>
