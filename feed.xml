@@ -5,9 +5,58 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Mar 2018 23:53:54 +0100</pubDate>
-    <lastBuildDate>Tue, 06 Mar 2018 23:53:54 +0100</lastBuildDate>
+    <pubDate>Mon, 09 Apr 2018 22:28:23 +0200</pubDate>
+    <lastBuildDate>Mon, 09 Apr 2018 22:28:23 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>JetBrains Plugins</title>
+        <description>&lt;h1 id=&quot;any&quot;&gt;Any&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7495--ignore&quot;&gt;.ignore&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7391-asciidoc&quot;&gt;AsciiDoc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/4230-bashsupport&quot;&gt;BashSupport&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7724-docker-integration&quot;&gt;Docker integration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7793-markdown-support&quot;&gt;Markdown support&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/10080-rainbow-brackets&quot;&gt;Rainbow Brackets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;intellij&quot;&gt;IntelliJ&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7371-aws-cloudformation&quot;&gt;AWS CloudFormation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support&quot;&gt;HashiCorp Terraform / HCL language support&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/6954-kotlin&quot;&gt;Kotlin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/6317-lombok-plugin&quot;&gt;Lombok Plugin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;webstorm&quot;&gt;WebStorm&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/6971-angularjs&quot;&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/8395-angular-2-typescript-live-templates&quot;&gt;Angular 2 TypeScript Live Templates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/9564-react-native-console&quot;&gt;React Native Console&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/9442-vue-js&quot;&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;inutiles-donc-indispensables&quot;&gt;Inutiles donc indispensables&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar&quot;&gt;Nyan Progress Bar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/8251-power-mode-ii&quot;&gt;Power Mode II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 09 Apr 2018 21:41:00 +0200</pubDate>
+        <link>https://victorsalaun.github.io/dev/jetbrains-plugins.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/dev/jetbrains-plugins.html</guid>
+        
+        <category>dev</category>
+        
+        
+        <category>dev</category>
+        
+      </item>
     
       <item>
         <title>Terraform</title>
