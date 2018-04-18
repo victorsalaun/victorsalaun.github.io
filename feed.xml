@@ -5,9 +5,63 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Apr 2018 22:28:23 +0200</pubDate>
-    <lastBuildDate>Mon, 09 Apr 2018 22:28:23 +0200</lastBuildDate>
+    <pubDate>Wed, 18 Apr 2018 21:20:24 +0200</pubDate>
+    <lastBuildDate>Wed, 18 Apr 2018 21:20:24 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Chaos Monkey for Spring Boot</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/codecentric/chaos-monkey-spring-boot&quot;&gt;Chaos Monkey for Spring Boot&lt;/a&gt; développé par l’équipe &lt;a href=&quot;https://www.codecentric.de/&quot;&gt;codecentric&lt;/a&gt; est une dépendance Spring Boot 2 permettant de faire du &lt;a href=&quot;https://principlesofchaos.org/&quot;&gt;Chaos Engineering&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;La mise en place est simple, il suffit d’ajouter la dépendance maven au pom.xml et régler quelques conf YAML.
+Le reste du code source n’est pas modifié.&lt;/p&gt;
+
+&lt;p&gt;Ce projet propose trois types d’attaque :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ajout de latences aux appels de méthodes&lt;/li&gt;
+  &lt;li&gt;Ajout d’exceptions aux appels de méthodes&lt;/li&gt;
+  &lt;li&gt;Tuer l’application&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ce projet se base sur les annotations Spring :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;@Controller&lt;/li&gt;
+  &lt;li&gt;@RestController&lt;/li&gt;
+  &lt;li&gt;@Service&lt;/li&gt;
+  &lt;li&gt;@Repository&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Voici un exemple de configuration :&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;chaos:
+  monkey:
+    assaults:
+      latencyActive: true
+      level: 1
+      exceptionsActive: true
+      killApplicationActive: true
+    watcher:
+      repository: true
+      restController: true
+      service: true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Dans la pratique il n’est pas conseillé d’utiliser ce type d’outils en production.
+Mais supposons une infra en micro-services, pourquoi ne pas lancer une instance de l’application en mode chaos.
+Cela permettrait de valider constamment le comportement des services entre eux.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/victorsalaun/chaos-monkey-spring-boot-demo&quot;&gt;Demo&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Apr 2018 12:50:00 +0200</pubDate>
+        <link>https://victorsalaun.github.io/dev/chaos-monkey-spring-boot.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/dev/chaos-monkey-spring-boot.html</guid>
+        
+        <category>dev, ChaosEngineering</category>
+        
+        
+        <category>dev</category>
+        
+      </item>
     
       <item>
         <title>JetBrains Plugins</title>
@@ -120,7 +174,7 @@ Le principal concept se base sur l’état de la cible, il s’agit donc d’une
     
       <item>
         <title>Déployer un site web statique en https sur AWS</title>
-        <description>&lt;h1 id=&quot;cration-du-domaine-et-de-son-certificat&quot;&gt;Création du domaine et de son certificat&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;création-du-domaine-et-de-son-certificat&quot;&gt;Création du domaine et de son certificat&lt;/h1&gt;
 
 &lt;p&gt;La première étape consiste à créer un domain et son certificat.&lt;/p&gt;
 
@@ -165,7 +219,7 @@ Le principal concept se base sur l’état de la cible, il s’agit donc d’une
 
 &lt;p&gt;Une fois la stack créée, il est nécessaire de manuellement modifier les noms des serveurs DNS du domaine, je ne connais pas de solution industrialisée.&lt;/p&gt;
 
-&lt;h1 id=&quot;cration-du-sous-domain&quot;&gt;Création du sous domain&lt;/h1&gt;
+&lt;h1 id=&quot;création-du-sous-domain&quot;&gt;Création du sous domain&lt;/h1&gt;
 
 &lt;p&gt;Maintenant qu’on a un domain valide, il est possible de créer autant de sous domaines qu’on veut aussi bien le www que rien.&lt;/p&gt;
 
