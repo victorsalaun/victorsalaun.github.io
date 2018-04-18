@@ -5,14 +5,14 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Apr 2018 21:52:05 +0200</pubDate>
-    <lastBuildDate>Wed, 18 Apr 2018 21:52:05 +0200</lastBuildDate>
+    <pubDate>Wed, 18 Apr 2018 22:16:10 +0200</pubDate>
+    <lastBuildDate>Wed, 18 Apr 2018 22:16:10 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Chaos Monkey for Spring Boot</title>
         <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/chaos-monkey.png&quot; title=&quot;chaos-monkey.png&quot; /&gt;
+    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/chaos-monkey.png&quot; title=&quot;chaos-monkey.png&quot; height=&quot;300&quot; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/codecentric/chaos-monkey-spring-boot&quot;&gt;Chaos Monkey for Spring Boot&lt;/a&gt; développé par l’équipe &lt;a href=&quot;https://www.codecentric.de/&quot;&gt;codecentric&lt;/a&gt; est une dépendance Spring Boot 2 permettant de faire du &lt;a href=&quot;https://principlesofchaos.org/&quot;&gt;Chaos Engineering&lt;/a&gt;.&lt;/p&gt;
@@ -123,7 +123,7 @@ Cela permettrait de valider constamment le comportement des services entre eux.&
       <item>
         <title>Terraform</title>
         <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/terraform.png&quot; title=&quot;terraform.png&quot; /&gt;
+    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/terraform.png&quot; title=&quot;terraform.png&quot; height=&quot;300&quot; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.terraform.io/&quot;&gt;Terraform&lt;/a&gt; est un outil d’infrastructure as code, multi-providers, open source, édité par &lt;a href=&quot;https://www.hashicorp.com/&quot;&gt;Hashicorp&lt;/a&gt;.
