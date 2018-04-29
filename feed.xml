@@ -190,7 +190,7 @@ Le principal concept se base sur l’état de la cible, il s’agit donc d’une
     &lt;img src=&quot;https://victorsalaun.github.io/assets/img/aws.jpg&quot; title=&quot;aws.jpg&quot; /&gt;
 &lt;/p&gt;
 
-&lt;h1 id=&quot;création-du-domaine-et-de-son-certificat&quot;&gt;Création du domaine et de son certificat&lt;/h1&gt;
+&lt;h1 id=&quot;cration-du-domaine-et-de-son-certificat&quot;&gt;Création du domaine et de son certificat&lt;/h1&gt;
 
 &lt;p&gt;La première étape consiste à créer un domain et son certificat.&lt;/p&gt;
 
@@ -235,7 +235,7 @@ Le principal concept se base sur l’état de la cible, il s’agit donc d’une
 
 &lt;p&gt;Une fois la stack créée, il est nécessaire de manuellement modifier les noms des serveurs DNS du domaine, je ne connais pas de solution industrialisée.&lt;/p&gt;
 
-&lt;h1 id=&quot;création-du-sous-domain&quot;&gt;Création du sous domain&lt;/h1&gt;
+&lt;h1 id=&quot;cration-du-sous-domain&quot;&gt;Création du sous domain&lt;/h1&gt;
 
 &lt;p&gt;Maintenant qu’on a un domain valide, il est possible de créer autant de sous domaines qu’on veut aussi bien le www que rien.&lt;/p&gt;
 
