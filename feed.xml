@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Sep 2018 00:17:24 +0200</pubDate>
-    <lastBuildDate>Sun, 02 Sep 2018 00:17:24 +0200</lastBuildDate>
+    <pubDate>Thu, 13 Sep 2018 20:47:28 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Sep 2018 20:47:28 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -18,7 +18,7 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/kamranahmedse/developer-roadmap&quot;&gt;developer-roadmap&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sun, 02 Sep 2018 00:15:00 +0200</pubDate>
+        <pubDate>Sun, 02 Sep 2018 00:15:00 +0000</pubDate>
         <link>https://victorsalaun.github.io/devops/devops-resources.html</link>
         <guid isPermaLink="true">https://victorsalaun.github.io/devops/devops-resources.html</guid>
         
@@ -76,7 +76,7 @@ Cela permettrait de valider constamment le comportement des services entre eux.&
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/victorsalaun/chaos-monkey-spring-boot-demo&quot;&gt;Demo&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 18 Apr 2018 12:50:00 +0200</pubDate>
+        <pubDate>Wed, 18 Apr 2018 12:50:00 +0000</pubDate>
         <link>https://victorsalaun.github.io/dev/chaos-monkey-spring-boot.html</link>
         <guid isPermaLink="true">https://victorsalaun.github.io/dev/chaos-monkey-spring-boot.html</guid>
         
@@ -129,7 +129,7 @@ Cela permettrait de valider constamment le comportement des services entre eux.&
   &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/8251-power-mode-ii&quot;&gt;Power Mode II&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 09 Apr 2018 21:41:00 +0200</pubDate>
+        <pubDate>Mon, 09 Apr 2018 21:41:00 +0000</pubDate>
         <link>https://victorsalaun.github.io/dev/jetbrains-plugins.html</link>
         <guid isPermaLink="true">https://victorsalaun.github.io/dev/jetbrains-plugins.html</guid>
         
@@ -168,7 +168,7 @@ Le principal concept se base sur l’état de la cible, il s’agit donc d’une
 
 &lt;p&gt;La création de modules permet de centraliser les usages et d’assurer une bonne réutilisabilité des modèles d’infrastructures par les équipes&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Feb 2018 20:58:00 +0100</pubDate>
+        <pubDate>Mon, 12 Feb 2018 20:58:00 +0000</pubDate>
         <link>https://victorsalaun.github.io/devops/terraform-infrastructure-as-code.html</link>
         <guid isPermaLink="true">https://victorsalaun.github.io/devops/terraform-infrastructure-as-code.html</guid>
         
@@ -193,7 +193,7 @@ Le principal concept se base sur l’état de la cible, il s’agit donc d’une
 
 &lt;p&gt;Maintenant nous pouvons partager cette image sur Twitter, documenter nos markdown etc.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Feb 2018 20:58:00 +0100</pubDate>
+        <pubDate>Mon, 12 Feb 2018 20:58:00 +0000</pubDate>
         <link>https://victorsalaun.github.io/documentation/carbon-create-beautiful-images-of-your-source-code.html</link>
         <guid isPermaLink="true">https://victorsalaun.github.io/documentation/carbon-create-beautiful-images-of-your-source-code.html</guid>
         
@@ -410,7 +410,7 @@ Le principal concept se base sur l’état de la cible, il s’agit donc d’une
   &lt;p&gt;aws s3 sync ./ s3://${WEBSITE_BUCKET} –region eu-west-3&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Thu, 25 Jan 2018 21:51:00 +0100</pubDate>
+        <pubDate>Thu, 25 Jan 2018 21:51:00 +0000</pubDate>
         <link>https://victorsalaun.github.io/aws/deploy-static-app-cloudfront-domain-https.html</link>
         <guid isPermaLink="true">https://victorsalaun.github.io/aws/deploy-static-app-cloudfront-domain-https.html</guid>
         
