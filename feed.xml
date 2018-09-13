@@ -5,9 +5,37 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Sep 2018 20:55:54 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Sep 2018 20:55:54 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Sep 2018 21:21:06 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Sep 2018 21:21:06 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Ressources Python</title>
+        <description>&lt;h1 id=&quot;python-libraries&quot;&gt;Python libraries&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pallets/click&quot;&gt;click&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pallets/flask&quot;&gt;flask&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/requests/requests&quot;&gt;requests&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;code-quality&quot;&gt;Code Quality&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nedbat/coveragepy&quot;&gt;coverage.py&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pre-commit/pre-commit&quot;&gt;pre-commit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 13 Sep 2018 21:08:00 +0000</pubDate>
+        <link>https://victorsalaun.github.io/python/python-resources.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/python/python-resources.html</guid>
+        
+        <category>python</category>
+        
+        
+        <category>python</category>
+        
+      </item>
     
       <item>
         <title>Ressources DevOps</title>
