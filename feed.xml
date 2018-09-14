@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Sep 2018 21:21:06 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Sep 2018 21:21:06 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Sep 2018 13:48:17 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Sep 2018 13:48:17 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -139,6 +139,8 @@ Cela permettrait de valider constamment le comportement des services entre eux.&
   &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support&quot;&gt;HashiCorp Terraform / HCL language support&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/6954-kotlin&quot;&gt;Kotlin&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/6317-lombok-plugin&quot;&gt;Lombok Plugin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/9333-makefile-support&quot;&gt;Makefile support&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7792-yaml-ansible-support&quot;&gt;YAML/Ansible support&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;webstorm&quot;&gt;WebStorm&lt;/h1&gt;

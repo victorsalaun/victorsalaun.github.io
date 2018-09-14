@@ -39,7 +39,7 @@ var index = lunr(function () {
     index.add({
       title: "JetBrains Plugins",
       category: ["dev"],
-      content: "\n    \n\n\nAny\n\n\n  .ignore\n  AsciiDoc\n  BashSupport\n  Docker integration\n  Markdown support\n  Rainbow Brackets\n\n\nIntelliJ\n\n\n  AWS CloudFormation\n  HashiCorp Terraform / HCL language support\n  Kotlin\n  Lombok Plugin\n\n\nWebStorm\n\n\n  AngularJS\n  Angular 2 TypeScript Live Templates\n  React Native Console\n  Vue.js\n\n\nInutiles donc indispensables\n\n\n  Nyan Progress Bar\n  Power Mode II\n\n",
+      content: "\n    \n\n\nAny\n\n\n  .ignore\n  AsciiDoc\n  BashSupport\n  Docker integration\n  Markdown support\n  Rainbow Brackets\n\n\nIntelliJ\n\n\n  AWS CloudFormation\n  HashiCorp Terraform / HCL language support\n  Kotlin\n  Lombok Plugin\n  Makefile support\n  YAML/Ansible support\n\n\nWebStorm\n\n\n  AngularJS\n  Angular 2 TypeScript Live Templates\n  React Native Console\n  Vue.js\n\n\nInutiles donc indispensables\n\n\n  Nyan Progress Bar\n  Power Mode II\n\n",
       tags: ["dev"],
       id: 3
     });
