@@ -5,14 +5,41 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Sep 2018 00:08:46 +0000</pubDate>
-    <lastBuildDate>Sat, 29 Sep 2018 00:08:46 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Oct 2018 13:15:38 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Oct 2018 13:15:38 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Ressources Terraform</title>
+        <description>&lt;h1 id=&quot;tools&quot;&gt;Tools&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hashicorp/terraform&quot;&gt;terraform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gruntwork-io/terragrunt&quot;&gt;terragrunt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;best-practices&quot;&gt;Best Practices&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ozbillwang/terraform-best-practices&quot;&gt;terraform-best-practices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 29 Sep 2018 02:04:00 +0000</pubDate>
+        <link>https://victorsalaun.github.io/terraform/terraform-resources.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/terraform/terraform-resources.html</guid>
+        
+        <category>terraform</category>
+        
+        
+        <category>terraform</category>
+        
+      </item>
     
       <item>
         <title>Ressources Kubernetes</title>
         <description>&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes/kubectl&quot;&gt;kubectl&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pulumi/kubespy&quot;&gt;kubespy&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes-sigs/kustomize&quot;&gt;kustomize&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/helm/helm&quot;&gt;helm&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes/minikube&quot;&gt;minikube&lt;/a&gt;&lt;/li&gt;
