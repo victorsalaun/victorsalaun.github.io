@@ -30,7 +30,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Python",
       category: ["python"],
-      content: "Python libraries\n\n\n  click\n  docopt\n  flask\n  requests\n\n\nCode Quality\n\n\n  coverage.py\n  flake8\n  pre-commit\n\n",
+      content: "Python libraries\n\n\n  click\n  cookiecutter\n  docopt\n  flask\n  requests\n\n\nCode Quality\n\n\n  coverage.py\n  flake8\n  pre-commit\n\n",
       tags: ["python"],
       id: 2
     });
@@ -111,7 +111,7 @@ var store = [{
     "image": null,
     "date": "September 13, 2018",
     "category": ["python"],
-    "excerpt": "Python libraries\n\n\n  click\n  docopt\n  flask\n  requests\n\n\nCode Quality\n\n\n  coverage.py\n  flake8\n  pre-commit\n\n"
+    "excerpt": "Python libraries\n\n\n  click\n  cookiecutter\n  docopt\n  flask\n  requests\n\n\nCode Quality\n\n\n  coverage.py\n  flake8\n  pre-commit\n\n"
 },{
     "title": "Ressources DevOps",
     "link": "/devops/devops-resources.html",
