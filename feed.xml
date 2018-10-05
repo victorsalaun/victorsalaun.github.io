@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Oct 2018 14:09:07 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Oct 2018 14:09:07 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Oct 2018 08:58:34 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Oct 2018 08:58:34 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -74,6 +74,12 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/nedbat/coveragepy&quot;&gt;coverage.py&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://gitlab.com/pycqa/flake8&quot;&gt;flake8&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pre-commit/pre-commit&quot;&gt;pre-commit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;learnings&quot;&gt;Learnings&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kriadmin/30-seconds-of-python-code&quot;&gt;30-seconds-of-python-code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Sep 2018 21:08:00 +0000</pubDate>
