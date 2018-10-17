@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Oct 2018 16:53:48 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Oct 2018 16:53:48 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Oct 2018 21:44:10 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Oct 2018 21:44:10 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -20,6 +20,7 @@
 &lt;h1 id=&quot;pull-requests&quot;&gt;Pull Requests&lt;/h1&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/configuration-as-code-plugin/pull/589&quot;&gt;configuration-as-code-plugin&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/Sahaj21/hello-world/pull/19&quot;&gt;hello-world&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/visualphoenix/jenkins-init-scripts/pull/6&quot;&gt;jenkins-init-scripts&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/voyages-sncf-technologies/terraform-provider-hesperides/pull/3&quot;&gt;terraform-provider-hesperides&lt;/a&gt;&lt;/li&gt;
