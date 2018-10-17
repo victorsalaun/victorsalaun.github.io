@@ -12,7 +12,7 @@ var index = lunr(function () {
     index.add({
       title: "Hacktoberfest 2018",
       category: ["github"],
-      content: "\n    \n\n\nHacktoberfest 2018\n\nPull Requests\n\n\n  jenkins-init-scripts\n\n",
+      content: "\n    \n\n\nHacktoberfest 2018\n\nPull Requests\n\n\n  hello-world\n  jenkins-init-scripts\n  terraform-provider-hesperides\n\n",
       tags: ["github"],
       id: 0
     });
@@ -106,7 +106,7 @@ var store = [{
     "image": null,
     "date": "October 15, 2018",
     "category": ["github"],
-    "excerpt": "\n    \n\n\nHacktoberfest 2018\n\nPull Requests\n\n\n  jenkins-init-scripts\n\n"
+    "excerpt": "\n    \n\n\nHacktoberfest 2018\n\nPull Requests\n\n\n  hello-world\n  jenkins-init-scripts\n  terraform-provider-hesperides\n\n"
 },{
     "title": "Ressources Terraform",
     "link": "/terraform/terraform-resources.html",
