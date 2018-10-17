@@ -5,9 +5,34 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Oct 2018 21:56:42 +0000</pubDate>
-    <lastBuildDate>Mon, 15 Oct 2018 21:56:42 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Oct 2018 10:12:57 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Oct 2018 10:12:57 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Hacktoberfest 2018</title>
+        <description>&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/hacktoberfest-2018.png&quot; title=&quot;hacktoberfest-2018.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hacktoberfest.digitalocean.com&quot;&gt;Hacktoberfest 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;pull-requests&quot;&gt;Pull Requests&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/visualphoenix/jenkins-init-scripts/pull/6&quot;&gt;jenkins-init-scripts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 15 Oct 2018 22:28:00 +0000</pubDate>
+        <link>https://victorsalaun.github.io/github/hacktoberfest-2018.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/github/hacktoberfest-2018.html</guid>
+        
+        <category>github</category>
+        
+        
+        <category>github</category>
+        
+      </item>
     
       <item>
         <title>Ressources Terraform</title>
@@ -61,10 +86,14 @@
         <description>&lt;h1 id=&quot;python-libraries&quot;&gt;Python libraries&lt;/h1&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bokeh/bokeh&quot;&gt;bokeh&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/boto/boto3&quot;&gt;boto3&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pallets/click&quot;&gt;click&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/audreyr/cookiecutter&quot;&gt;cookiecutter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pyviz/datashader&quot;&gt;datashader&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/docopt/docopt&quot;&gt;docopt&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pallets/flask&quot;&gt;flask&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/seatgeek/fuzzywuzzy&quot;&gt;fuzzywuzzy&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/requests/requests&quot;&gt;requests&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
