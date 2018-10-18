@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Oct 2018 12:01:20 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Oct 2018 12:01:20 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Oct 2018 15:32:34 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Oct 2018 15:32:34 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -104,6 +104,7 @@
 &lt;h1 id=&quot;code-quality&quot;&gt;Code Quality&lt;/h1&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ambv/black&quot;&gt;black&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/nedbat/coveragepy&quot;&gt;coverage.py&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://gitlab.com/pycqa/flake8&quot;&gt;flake8&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pre-commit/pre-commit&quot;&gt;pre-commit&lt;/a&gt;&lt;/li&gt;
