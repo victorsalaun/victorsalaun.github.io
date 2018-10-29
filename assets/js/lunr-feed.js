@@ -39,7 +39,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Python",
       category: ["python"],
-      content: "Python libraries\n\n\n  bokeh\n  boto3\n  click\n  cookiecutter\n  datashader\n  docopt\n  flask\n  fuzzywuzzy\n  requests\n\n\nCode Quality\n\n\n  black\n  coverage.py\n  flake8\n  pre-commit\n\n\nLearnings\n\n\n  30-seconds-of-python-code\n\n",
+      content: "Python libraries\n\n\n  bokeh\n  boto3\n  click\n  cookiecutter\n  datashader\n  docopt\n  flask\n  fuzzywuzzy\n  requests\n\n\nPython tools\n\n\n  credstash\n\n\nCode Quality\n\n\n  black\n  coverage.py\n  flake8\n  pre-commit\n\n\nLearnings\n\n\n  30-seconds-of-python-code\n\n",
       tags: ["python"],
       id: 3
     });
@@ -127,7 +127,7 @@ var store = [{
     "image": null,
     "date": "September 13, 2018",
     "category": ["python"],
-    "excerpt": "Python libraries\n\n\n  bokeh\n  boto3\n  click\n  cookiecutter\n  datashader\n  docopt\n  flask\n  fuzzywuzzy\n  requests\n\n\nCode Quality\n\n\n  black\n  coverage.py\n  flake8\n  pre-commit\n\n\nLearnings\n\n\n  30-seconds-of-python-code\n\n"
+    "excerpt": "Python libraries bokeh boto3 click cookiecutter datashader docopt flask fuzzywuzzy requests Python tools credstash Code Quality black coverage.py flake8 pre-commit..."
 },{
     "title": "Ressources DevOps",
     "link": "/devops/devops-resources.html",
