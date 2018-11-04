@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Nov 2018 15:59:23 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Nov 2018 15:59:23 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Nov 2018 16:09:51 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Nov 2018 16:09:51 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -98,7 +98,7 @@
       <item>
         <title>Ressources Kubernetes</title>
         <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/kubernetes.jpg&quot; title=&quot;kubernetes.jpg&quot; /&gt;
+    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/kubernetes.png&quot; title=&quot;kubernetes.png&quot; /&gt;
 &lt;/p&gt;
 
 &lt;ul&gt;
@@ -126,7 +126,7 @@
       <item>
         <title>Ressources Python</title>
         <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/python.jpg&quot; title=&quot;python.jpg&quot; /&gt;
+    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/python.png&quot; title=&quot;python.png&quot; /&gt;
 &lt;/p&gt;
 
 &lt;h1 id=&quot;python-libraries&quot;&gt;Python libraries&lt;/h1&gt;
@@ -180,7 +180,7 @@
       <item>
         <title>Ressources DevOps</title>
         <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/sre.jpg&quot; title=&quot;sre.jpg&quot; /&gt;
+    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/sre.jpeg&quot; title=&quot;sre.jpeg&quot; /&gt;
 &lt;/p&gt;
 
 &lt;ul&gt;
