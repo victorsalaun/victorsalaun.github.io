@@ -13,7 +13,7 @@ var index = lunr(function () {
       title: "Ressources Jeux Vidéo",
       category: ["dev"],
       content: "Links\n\n\n  magictools\n\n",
-      tags: ["resources, videogames"],
+      tags: ["resources","videogames"],
       id: 0
     });
     
@@ -22,7 +22,7 @@ var index = lunr(function () {
       title: "Hacktoberfest 2018",
       category: ["dev"],
       content: "\n    \n\n\nHacktoberfest 2018\n\nPull Requests\n\n\n  build-timestamp-plugin\n  config-file-provider-plugin\n  configuration-as-code-plugin\n  hello-world\n  jenkins-init-scripts\n  terraform-provider-hesperides\n  terraform-provider-hesperides\n\n",
-      tags: ["github, Hacktoberfest"],
+      tags: ["github","Hacktoberfest"],
       id: 1
     });
     
@@ -31,7 +31,7 @@ var index = lunr(function () {
       title: "Ressources Terraform",
       category: ["devops"],
       content: "Tools\n\n\n  terraform\n  terragrunt\n\n\nBest Practices\n\n\n  terraform-best-practices\n\n",
-      tags: ["resources, terraform"],
+      tags: ["resources","terraform"],
       id: 2
     });
     
@@ -40,7 +40,7 @@ var index = lunr(function () {
       title: "Ressources Kubernetes",
       category: ["devops"],
       content: "\n  kubectl\n  kubespy\n  kustomize\n  helm\n  minikube\n\n",
-      tags: ["resources, kubernetes"],
+      tags: ["kubernetes","resources"],
       id: 3
     });
     
@@ -49,7 +49,7 @@ var index = lunr(function () {
       title: "Ressources Python",
       category: ["dev"],
       content: "Python libraries\n\n\n  bokeh\n  boto3\n  click\n  cookiecutter\n  datashader\n  docopt\n  flask\n  fuzzywuzzy\n  requests\n\n\nPython tools\n\n\n  credstash\n\n\nCode Quality\n\n\n  black\n  coverage.py\n  flake8\n  pre-commit\n\n\nLearnings\n\n\n  30-seconds-of-python-code\n\n",
-      tags: ["resources, python"],
+      tags: ["python","resources"],
       id: 4
     });
     
@@ -57,7 +57,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources DevOps",
       category: ["devops"],
-      content: "Roadmap\n\nGraphiques montrant les chemins d’apprentissage des technologies Front, Back et DevOps\n\n  developer-roadmap\n\n",
+      content: "\n  awesome-scalability\n\n\nRoadmap\n\nGraphiques montrant les chemins d’apprentissage des technologies Front, Back et DevOps\n\n  developer-roadmap\n\n",
       tags: ["resources"],
       id: 5
     });
@@ -65,7 +65,7 @@ var index = lunr(function () {
 
     index.add({
       title: "Chaos Monkey for Spring Boot",
-      category: ["dev, devops"],
+      category: ["dev","devops"],
       content: "\n    \n\n\nChaos Monkey for Spring Boot développé par l’équipe codecentric est une dépendance Spring Boot 2 permettant de faire du Chaos Engineering.\n\nLa mise en place est simple, il suffit d’ajouter la dépendance maven au pom.xml et régler quelques conf YAML.\nLe reste du code source n’est pas modifié.\n\nCe projet propose trois types d’attaque :\n\n  Ajout de latences aux appels de méthodes\n  Ajout d’exceptions aux appels de méthodes\n  Tuer l’application\n\n\nCe projet se base sur les annotations Spring :\n\n  @Controller\n  @RestController\n  @Service\n  @Repository\n\n\nVoici un exemple de configuration :\nchaos:\n  monkey:\n    assaults:\n      latencyActive: true\n      level: 1\n      exceptionsActive: true\n      killApplicationActive: true\n    watcher:\n      repository: true\n      restController: true\n      service: true\n\n\n\nDans la pratique il n’est pas conseillé d’utiliser ce type d’outils en production.\nMais supposons une infra en micro-services, pourquoi ne pas lancer une instance de l’application en mode chaos.\nCela permettrait de valider constamment le comportement des services entre eux.\n\nDemo\n",
       tags: ["ChaosEngineering"],
       id: 6
@@ -76,7 +76,7 @@ var index = lunr(function () {
       title: "JetBrains Plugins",
       category: ["dev"],
       content: "\n    \n\n\nAny\n\n\n  .ignore\n  AsciiDoc\n  BashSupport\n  Docker integration\n  Markdown support\n  Rainbow Brackets\n\n\nIntelliJ\n\n\n  AWS CloudFormation\n  HashiCorp Terraform / HCL language support\n  Kotlin\n  Lombok Plugin\n  Makefile support\n  YAML/Ansible support\n\n\nWebStorm\n\n\n  AngularJS\n  Angular 2 TypeScript Live Templates\n  React Native Console\n  Vue.js\n\n\nInutiles donc indispensables\n\n\n  Nyan Progress Bar\n  Power Mode II\n\n",
-      tags: ["jetbrains, plugins"],
+      tags: ["jetbrains","plugins"],
       id: 7
     });
     
@@ -150,13 +150,13 @@ var store = [{
     "image": null,
     "date": "September 2, 2018",
     "category": ["devops"],
-    "excerpt": "Roadmap\n\nGraphiques montrant les chemins d’apprentissage des technologies Front, Back et DevOps\n\n  developer-roadmap\n\n"
+    "excerpt": "\n  awesome-scalability\n\n\nRoadmap\n\nGraphiques montrant les chemins d’apprentissage des technologies Front, Back et DevOps\n\n  developer-roadmap\n\n"
 },{
     "title": "Chaos Monkey for Spring Boot",
-    "link": "/dev,%20devops/chaos-monkey-spring-boot.html",
+    "link": "/dev/devops/chaos-monkey-spring-boot.html",
     "image": null,
     "date": "April 18, 2018",
-    "category": ["dev, devops"],
+    "category": ["dev","devops"],
     "excerpt": "Chaos Monkey for Spring Boot développé par l’équipe codecentric est une dépendance Spring Boot 2 permettant de faire du Chaos..."
 },{
     "title": "JetBrains Plugins",

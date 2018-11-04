@@ -238,14 +238,16 @@
 
   magictools
 
-&hashtags=resources, videogames," rel="noreferrer" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#twitter-icon"></use></svg></a></li>
+&hashtags=resources,videogames," rel="noreferrer" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#twitter-icon"></use></svg></a></li>
             </ul>
         </div>
         
         <div class="tags">
             <ul>
                 
-                <li><a href="https://victorsalaun.github.io/tag/resources, videogames">resources, videogames</a></li>
+                <li><a href="https://victorsalaun.github.io/tag/resources">resources</a></li>
+                
+                <li><a href="https://victorsalaun.github.io/tag/videogames">videogames</a></li>
                 
             </ul>
         </div>
@@ -321,14 +323,16 @@ Pull Requests
   build-timestamp-plugin
   config-file-provider-plugin
   configuration-as-code-plugin
-  hello...&hashtags=github, Hacktoberfest," rel="noreferrer" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#twitter-icon"></use></svg></a></li>
+  hello...&hashtags=github,Hacktoberfest," rel="noreferrer" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#twitter-icon"></use></svg></a></li>
             </ul>
         </div>
         
         <div class="tags">
             <ul>
                 
-                <li><a href="https://victorsalaun.github.io/tag/github, Hacktoberfest">github, Hacktoberfest</a></li>
+                <li><a href="https://victorsalaun.github.io/tag/github">github</a></li>
+                
+                <li><a href="https://victorsalaun.github.io/tag/Hacktoberfest">Hacktoberfest</a></li>
                 
             </ul>
         </div>
@@ -431,14 +435,112 @@ Python tools
 Python tools
 
 
-  credst...&hashtags=resources, python," rel="noreferrer" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#twitter-icon"></use></svg></a></li>
+  credst...&hashtags=python,resources," rel="noreferrer" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#twitter-icon"></use></svg></a></li>
             </ul>
         </div>
         
         <div class="tags">
             <ul>
                 
-                <li><a href="https://victorsalaun.github.io/tag/resources, python">resources, python</a></li>
+                <li><a href="https://victorsalaun.github.io/tag/python">python</a></li>
+                
+                <li><a href="https://victorsalaun.github.io/tag/resources">resources</a></li>
+                
+            </ul>
+        </div>
+        
+    </footer>
+</article>
+
+<article class="post" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="post-header">
+        <ul class="clear">
+            <li><time datetime="2018-04-18T12:50:00+00:00" itemprop="datePublished">18 Apr, 2018</time></li>
+            
+                <li class="cats">
+                    
+                        <a href="/categories/dev/">dev</a>
+                    
+                        <a href="/categories/devops/">devops</a>
+                    
+                </li>
+            
+        </ul>
+        <h2 itemprop="name headline"><a href="https://victorsalaun.github.io/dev/devops/chaos-monkey-spring-boot.html">Chaos Monkey for Spring Boot</a></h2>
+    </header>
+
+    <div class="post-content">
+        <p align="center">
+    <img src="https://victorsalaun.github.io/assets/img/chaos-monkey.png" title="chaos-monkey.png" style="height: 300px; width: 300px;" />
+</p>
+
+<p><a href="https://github.com/codecentric/chaos-monkey-spring-boot">Chaos Monkey for Spring Boot</a> développé par l’équipe <a href="https://www.codecentric.de/">codecentric</a> est une dépendance Spring Boot 2 permettant de faire du <a href="https://principlesofchaos.org/">Chaos Engineering</a>.</p>
+
+<p>La mise en place est simple, il suffit d’ajouter la dépendance maven au pom.xml et régler quelques conf YAML.
+Le reste du code source n’est pas modifié.</p>
+
+<p>Ce projet propose trois types d’attaque :</p>
+<ul>
+  <li>Ajout de latences aux appels de méthodes</li>
+  <li>Ajout d’exceptions aux appels de méthodes</li>
+  <li>Tuer l’application</li>
+</ul>
+
+<p>Ce projet se base sur les annotations Spring :</p>
+<ul>
+  <li>@Controller</li>
+  <li>@RestController</li>
+  <li>@Service</li>
+  <li>@Repository</li>
+</ul>
+
+<p>Voici un exemple de configuration :</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>chaos:
+  monkey:
+    assaults:
+      latencyActive: true
+      level: 1
+      exceptionsActive: true
+      killApplicationActive: true
+    watcher:
+      repository: true
+      restController: true
+      service: true
+</code></pre>
+</div>
+
+<p>Dans la pratique il n’est pas conseillé d’utiliser ce type d’outils en production.
+Mais supposons une infra en micro-services, pourquoi ne pas lancer une instance de l’application en mode chaos.
+Cela permettrait de valider constamment le comportement des services entre eux.</p>
+
+<p><a href="https://github.com/victorsalaun/chaos-monkey-spring-boot-demo">Demo</a></p>
+
+
+        
+            <p><a href="/dev/devops/chaos-monkey-spring-boot.html" role="button">Read More</a></p>
+        
+    </div>
+
+    <footer class="post-footer">
+        <div class="share">Share
+            <ul class="social-networks">
+                <li class="share-facebook"><a href="https://www.facebook.com/sharer.php?s=100&p[title]=Chaos Monkey for Spring Boot&p[summary]=
+    
+
+
+Chaos Monkey for Spring Boot développé par l’équipe codecentric est une dépendance Spring Boot 2 permettant de faire du Chaos Eng...&p[url]=https://victorsalaun.github.io/dev/devops/chaos-monkey-spring-boot.html" class="s_facebook" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#facebook-icon"></use></svg></a></a></li>
+                <li class="share-twitter"><a href="http://twitter.com/share?url=https://victorsalaun.github.io/dev/devops/chaos-monkey-spring-boot.html&text=
+    
+
+
+Chaos Monkey for Spring Boot développé par l’équipe codecentric est une dépendance Spring Boot 2 permettant de faire du Chaos Eng...&hashtags=ChaosEngineering," rel="noreferrer" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#twitter-icon"></use></svg></a></li>
+            </ul>
+        </div>
+        
+        <div class="tags">
+            <ul>
+                
+                <li><a href="https://victorsalaun.github.io/tag/ChaosEngineering">ChaosEngineering</a></li>
                 
             </ul>
         </div>
@@ -550,14 +652,16 @@ Any
 IntelliJ
 
 
-  AWS CloudForma...&hashtags=jetbrains, plugins," rel="noreferrer" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#twitter-icon"></use></svg></a></li>
+  AWS CloudForma...&hashtags=jetbrains,plugins," rel="noreferrer" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#twitter-icon"></use></svg></a></li>
             </ul>
         </div>
         
         <div class="tags">
             <ul>
                 
-                <li><a href="https://victorsalaun.github.io/tag/jetbrains, plugins">jetbrains, plugins</a></li>
+                <li><a href="https://victorsalaun.github.io/tag/jetbrains">jetbrains</a></li>
+                
+                <li><a href="https://victorsalaun.github.io/tag/plugins">plugins</a></li>
                 
             </ul>
         </div>
