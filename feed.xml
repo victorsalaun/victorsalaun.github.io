@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Nov 2018 16:09:51 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Nov 2018 16:09:51 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Nov 2018 16:49:49 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Nov 2018 16:49:49 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -98,7 +98,7 @@
       <item>
         <title>Ressources Kubernetes</title>
         <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/kubernetes.png&quot; title=&quot;kubernetes.png&quot; /&gt;
+    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/kubernetes.png&quot; title=&quot;kubernetes.png&quot; style=&quot;height: 300px; width: 300px;&quot; /&gt;
 &lt;/p&gt;
 
 &lt;ul&gt;
@@ -126,7 +126,7 @@
       <item>
         <title>Ressources Python</title>
         <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/python.png&quot; title=&quot;python.png&quot; /&gt;
+    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/python.png&quot; title=&quot;python.png&quot; style=&quot;height: 300px; width: 300px;&quot; /&gt;
 &lt;/p&gt;
 
 &lt;h1 id=&quot;python-libraries&quot;&gt;Python libraries&lt;/h1&gt;
