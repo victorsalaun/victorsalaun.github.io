@@ -5,9 +5,28 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Nov 2018 15:21:39 +0000</pubDate>
-    <lastBuildDate>Fri, 02 Nov 2018 15:21:39 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Nov 2018 13:18:54 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Nov 2018 13:18:54 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Ressources Jeux Vidéo</title>
+        <description>&lt;h1 id=&quot;links&quot;&gt;Links&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ellisonleao/magictools&quot;&gt;magictools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 02 Nov 2018 16:18:00 +0000</pubDate>
+        <link>https://victorsalaun.github.io/dev/video-games-resources.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/dev/video-games-resources.html</guid>
+        
+        <category>resources, videogames</category>
+        
+        
+        <category>dev</category>
+        
+      </item>
     
       <item>
         <title>Hacktoberfest 2018</title>
@@ -30,13 +49,13 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 15 Oct 2018 22:28:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/github/hacktoberfest-2018.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/github/hacktoberfest-2018.html</guid>
+        <link>https://victorsalaun.github.io/dev/hacktoberfest-2018.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/dev/hacktoberfest-2018.html</guid>
         
-        <category>github</category>
+        <category>github, Hacktoberfest</category>
         
         
-        <category>github</category>
+        <category>dev</category>
         
       </item>
     
@@ -56,13 +75,13 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 29 Sep 2018 02:04:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/terraform/terraform-resources.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/terraform/terraform-resources.html</guid>
+        <link>https://victorsalaun.github.io/devops/terraform-resources.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/devops/terraform-resources.html</guid>
         
-        <category>terraform</category>
+        <category>resources, terraform</category>
         
         
-        <category>terraform</category>
+        <category>devops</category>
         
       </item>
     
@@ -77,13 +96,13 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 28 Sep 2018 13:08:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/kubernetes/kubernetes-resources.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/kubernetes/kubernetes-resources.html</guid>
+        <link>https://victorsalaun.github.io/devops/kubernetes-resources.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/devops/kubernetes-resources.html</guid>
         
-        <category>kubernetes</category>
+        <category>resources, kubernetes</category>
         
         
-        <category>kubernetes</category>
+        <category>devops</category>
         
       </item>
     
@@ -125,13 +144,13 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 13 Sep 2018 21:08:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/python/python-resources.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/python/python-resources.html</guid>
+        <link>https://victorsalaun.github.io/dev/python-resources.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/dev/python-resources.html</guid>
         
-        <category>python</category>
+        <category>resources, python</category>
         
         
-        <category>python</category>
+        <category>dev</category>
         
       </item>
     
@@ -148,7 +167,7 @@
         <link>https://victorsalaun.github.io/devops/devops-resources.html</link>
         <guid isPermaLink="true">https://victorsalaun.github.io/devops/devops-resources.html</guid>
         
-        <category>devops</category>
+        <category>resources</category>
         
         
         <category>devops</category>
@@ -203,13 +222,13 @@ Cela permettrait de valider constamment le comportement des services entre eux.&
 &lt;p&gt;&lt;a href=&quot;https://github.com/victorsalaun/chaos-monkey-spring-boot-demo&quot;&gt;Demo&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Apr 2018 12:50:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/dev/chaos-monkey-spring-boot.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/dev/chaos-monkey-spring-boot.html</guid>
+        <link>https://victorsalaun.github.io/dev,%20devops/chaos-monkey-spring-boot.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/dev,%20devops/chaos-monkey-spring-boot.html</guid>
         
-        <category>dev, ChaosEngineering</category>
+        <category>ChaosEngineering</category>
         
         
-        <category>dev</category>
+        <category>dev, devops</category>
         
       </item>
     
@@ -261,7 +280,7 @@ Cela permettrait de valider constamment le comportement des services entre eux.&
         <link>https://victorsalaun.github.io/dev/jetbrains-plugins.html</link>
         <guid isPermaLink="true">https://victorsalaun.github.io/dev/jetbrains-plugins.html</guid>
         
-        <category>dev</category>
+        <category>jetbrains, plugins</category>
         
         
         <category>dev</category>
@@ -300,7 +319,7 @@ Le principal concept se base sur l’état de la cible, il s’agit donc d’une
         <link>https://victorsalaun.github.io/devops/terraform-infrastructure-as-code.html</link>
         <guid isPermaLink="true">https://victorsalaun.github.io/devops/terraform-infrastructure-as-code.html</guid>
         
-        <category>devops, terraform</category>
+        <category>terraform</category>
         
         
         <category>devops</category>
@@ -322,230 +341,13 @@ Le principal concept se base sur l’état de la cible, il s’agit donc d’une
 &lt;p&gt;Maintenant nous pouvons partager cette image sur Twitter, documenter nos markdown etc.&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Feb 2018 20:58:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/documentation/carbon-create-beautiful-images-of-your-source-code.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/documentation/carbon-create-beautiful-images-of-your-source-code.html</guid>
+        <link>https://victorsalaun.github.io/devops/carbon-create-beautiful-images-of-your-source-code.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/devops/carbon-create-beautiful-images-of-your-source-code.html</guid>
         
         <category>documentation</category>
         
         
-        <category>documentation</category>
-        
-      </item>
-    
-      <item>
-        <title>Déployer un site web statique en https sur AWS</title>
-        <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/aws.jpg&quot; title=&quot;aws.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h1 id=&quot;cration-du-domaine-et-de-son-certificat&quot;&gt;Création du domaine et de son certificat&lt;/h1&gt;
-
-&lt;p&gt;La première étape consiste à créer un domain et son certificat.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;aws cloudformation deploy –stack-name domain-stack –template-file domain.cfn.yml –parameter-overrides DomainName=example.com –capabilities CAPABILITY_IAM –region us-east-1&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;s&quot;&gt;AWSTemplateFormatVersion&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;2010-09-09&quot;&lt;/span&gt;
-
-&lt;span class=&quot;s&quot;&gt;Description&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Route53 Hosted Zone + Certificate&lt;/span&gt;
-
-&lt;span class=&quot;s&quot;&gt;Parameters&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-
-  &lt;span class=&quot;s&quot;&gt;DomainName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;String&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Description&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;The DNS name of an Amazon Route 53 hosted zone&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;AllowedPattern&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;(?!-)[a-zA-Z0-9-.]{1,63}(?&amp;lt;!-)&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;ConstraintDescription&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;must be a valid DNS zone name.&lt;/span&gt;
-
-&lt;span class=&quot;s&quot;&gt;Resources&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-
-  &lt;span class=&quot;s&quot;&gt;DNS&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;AWS::Route53::HostedZone&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Properties&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;HostedZoneConfig&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;Comment&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Join&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Hosted&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;zone&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;DomainName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]]&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;DomainName&lt;/span&gt;
-
-  &lt;span class=&quot;s&quot;&gt;DomainCertificate&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;AWS::CertificateManager::Certificate&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Properties&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;DomainName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;DomainName&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;DomainValidationOptions&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;DomainName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;DomainName&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;ValidationDomain&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;DomainName&lt;/span&gt;
-      &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;DomainName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Join&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;*.'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;DomainName&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;]]&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;ValidationDomain&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;DomainName&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;SubjectAlternativeNames&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Join&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;*.'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;DomainName&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;]]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Lors du traitement de cette stack, il faut penser à vérifier ses mails afin de valider la création du certificat.&lt;/p&gt;
-
-&lt;p&gt;Une fois la stack créée, il est nécessaire de manuellement modifier les noms des serveurs DNS du domaine, je ne connais pas de solution industrialisée.&lt;/p&gt;
-
-&lt;h1 id=&quot;cration-du-sous-domain&quot;&gt;Création du sous domain&lt;/h1&gt;
-
-&lt;p&gt;Maintenant qu’on a un domain valide, il est possible de créer autant de sous domaines qu’on veut aussi bien le www que rien.&lt;/p&gt;
-
-&lt;p&gt;Pour récupérer l’arn du certificat que l’on vient de créer :&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;aws acm list-certificates –region us-east-1&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;La stack suivante permet de fournir un S3 qui est un dépôt de fichiers statiques, un CDN (CloudFront) et de lier le tout au domaine.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;aws cloudformation deploy –stack-name subdomain-stack –template-file subdomain.cfn.yml –parameter-overrides AcmCertificateArn=arn:aws:cloudfront::99999999999:distribution/XXXXXXXXXXXX HostedZone=example.com Subdomain=www.example.com  –capabilities CAPABILITY_IAM –region eu-west-3&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;s&quot;&gt;AWSTemplateFormatVersion&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;2010-09-09'&lt;/span&gt;
-
-&lt;span class=&quot;s&quot;&gt;Description&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Route53 Subdomain&lt;/span&gt;
-
-&lt;span class=&quot;s&quot;&gt;Parameters&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-
-  &lt;span class=&quot;s&quot;&gt;AcmCertificateArn&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;String&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Description&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Domain certificate arn.&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;AllowedPattern&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;arn:aws:acm:.*&quot;&lt;/span&gt;
-
-  &lt;span class=&quot;s&quot;&gt;HostedZone&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;String&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Description&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;The DNS name of an existing Amazon Route 53 hosted zone.&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;AllowedPattern&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;(?!-)[a-zA-Z0-9-.]{1,63}(?&amp;lt;!-)&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;ConstraintDescription&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;must be a valid DNS zone name.&lt;/span&gt;
-
-  &lt;span class=&quot;s&quot;&gt;Subdomain&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;String&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Description&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;The DNS name of an existing Amazon Route 53 hosted zone.&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;AllowedPattern&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;(?!-)[a-zA-Z0-9-.]{1,63}(?&amp;lt;!-)&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;ConstraintDescription&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;must be a valid subdomain name.&lt;/span&gt;
-
-&lt;span class=&quot;s&quot;&gt;Mappings&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-
-  &lt;span class=&quot;s&quot;&gt;Region2S3WebsiteSuffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;us-east-1&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website-us-east-1.amazonaws.com&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;us-west-1&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website-us-west-1.amazonaws.com&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;us-west-2&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website-us-west-2.amazonaws.com&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;eu-west-1&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website-eu-west-1.amazonaws.com&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;ap-northeast-1&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website-ap-northeast-1.amazonaws.com&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;ap-northeast-2&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website-ap-northeast-2.amazonaws.com&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;ap-southeast-1&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website-ap-southeast-1.amazonaws.com&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;ap-southeast-2&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website-ap-southeast-2.amazonaws.com&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;ap-south-1&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website-ap-south-1.amazonaws.com&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;us-east-2&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website-us-east-2.amazonaws.com&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;sa-east-1&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website-sa-east-1.amazonaws.com&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;cn-north-1&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website.cn-north-1.amazonaws.com.cn&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;eu-central-1&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Suffix&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;.s3-website.eu-central-1.amazonaws.com&lt;/span&gt;
-
-&lt;span class=&quot;s&quot;&gt;Resources&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-
-  &lt;span class=&quot;s&quot;&gt;WebsiteBucket&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;AWS::S3::Bucket&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Properties&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;AccessControl&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;PublicRead&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;WebsiteConfiguration&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;IndexDocument&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;index.html&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;ErrorDocument&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;error.html&lt;/span&gt;
-
-  &lt;span class=&quot;s&quot;&gt;WebsiteBucketPolicy&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;AWS::S3::BucketPolicy&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Properties&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Bucket&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;WebsiteBucket&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;PolicyDocument&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;Version&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;2012-10-17&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;Statement&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Sid&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;PublicReadForGetBucketObjects&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;Effect&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Allow&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;Principal&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;*'&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;Action&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;s3:GetObject&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;Resource&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Join&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;arn:aws:s3:::'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;WebsiteBucket&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;/*&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]]&lt;/span&gt;
-
-  &lt;span class=&quot;s&quot;&gt;WebsiteCDN&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;AWS::CloudFront::Distribution&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Properties&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;DistributionConfig&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;Comment&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Join&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;CDN&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;Subdomain&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;website'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]]&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;Aliases&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Subdomain&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;Enabled&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;true&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;DefaultRootObject&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;index.html&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;IPV6Enabled&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;false&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;DefaultCacheBehavior&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;AllowedMethods&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-          &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;DELETE&lt;/span&gt;
-          &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;GET&lt;/span&gt;
-          &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;HEAD&lt;/span&gt;
-          &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;OPTIONS&lt;/span&gt;
-          &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;PATCH&lt;/span&gt;
-          &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;POST&lt;/span&gt;
-          &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;PUT&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;TargetOriginId&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;S3Origin&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;ForwardedValues&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-            &lt;span class=&quot;s&quot;&gt;QueryString&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;false&lt;/span&gt;
-            &lt;span class=&quot;s&quot;&gt;Cookies&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-              &lt;span class=&quot;s&quot;&gt;Forward&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;none&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;ViewerProtocolPolicy&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;redirect-to-https&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;PriceClass&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;PriceClass_100&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;Restrictions&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;GeoRestriction&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-            &lt;span class=&quot;s&quot;&gt;RestrictionType&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;whitelist&lt;/span&gt;
-            &lt;span class=&quot;s&quot;&gt;Locations&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-              &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;FR&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;ViewerCertificate&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;AcmCertificateArn&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;AcmCertificateArn&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;SslSupportMethod&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;sni-only&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;Origins&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;DomainName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Join&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;WebsiteBucket&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;.s3.amazonaws.com'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]]&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;Id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;S3Origin&lt;/span&gt;
-          &lt;span class=&quot;s&quot;&gt;S3OriginConfig&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;{}&lt;/span&gt;
-
-  &lt;span class=&quot;s&quot;&gt;WebsiteDNSName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;AWS::Route53::RecordSet&lt;/span&gt;
-    &lt;span class=&quot;s&quot;&gt;Properties&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;HostedZoneName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Join&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;HostedZone&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]]&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!Ref&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Subdomain&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;Type&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;A&lt;/span&gt;
-      &lt;span class=&quot;s&quot;&gt;AliasTarget&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;HostedZoneId&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Z2FDTNDATAQYW2&lt;/span&gt;
-        &lt;span class=&quot;s&quot;&gt;DNSName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;!GetAtt&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;WebsiteCDN&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;DomainName&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;La création du CDN est long, il faut s’armer de patience, mais c’est aussi le bon moment pour débuter le transfert du site vers S3.&lt;/p&gt;
-
-&lt;p&gt;Une fois la stack créée, le site est disponible à la fois en http et en https. Pour être exact, les requêtes http seront redirigées en https.&lt;/p&gt;
-
-&lt;p&gt;Transférer ses données vers S3 peut se faire facilement via l’interface ou bien en ligne de commande.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;aws s3 ls –region eu-west-3&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;aws s3 sync ./ s3://${WEBSITE_BUCKET} –region eu-west-3&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Thu, 25 Jan 2018 21:51:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/aws/deploy-static-app-cloudfront-domain-https.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/aws/deploy-static-app-cloudfront-domain-https.html</guid>
-        
-        <category>aws</category>
-        
-        
-        <category>aws</category>
+        <category>devops</category>
         
       </item>
     
