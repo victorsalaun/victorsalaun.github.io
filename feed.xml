@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Nov 2018 13:29:54 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Nov 2018 13:29:54 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Nov 2018 13:32:45 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Nov 2018 13:32:45 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -94,6 +94,7 @@
       <item>
         <title>Ressources Kubernetes</title>
         <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ramitsurana/awesome-kubernetes&quot;&gt;awesome-kubernetes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes/kubectl&quot;&gt;kubectl&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pulumi/kubespy&quot;&gt;kubespy&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes-sigs/kustomize&quot;&gt;kustomize&lt;/a&gt;&lt;/li&gt;
@@ -168,12 +169,6 @@
         <title>Ressources DevOps</title>
         <description>&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/binhnguyennus/awesome-scalability&quot;&gt;awesome-scalability&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;roadmap&quot;&gt;Roadmap&lt;/h1&gt;
-
-&lt;p&gt;Graphiques montrant les chemins d’apprentissage des technologies Front, Back et DevOps&lt;/p&gt;
-&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kamranahmedse/developer-roadmap&quot;&gt;developer-roadmap&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>

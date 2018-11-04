@@ -39,7 +39,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Kubernetes",
       category: ["devops"],
-      content: "\n  kubectl\n  kubespy\n  kustomize\n  helm\n  minikube\n\n",
+      content: "\n  awesome-kubernetes\n  kubectl\n  kubespy\n  kustomize\n  helm\n  minikube\n\n",
       tags: ["kubernetes","resources"],
       id: 3
     });
@@ -57,7 +57,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources DevOps",
       category: ["devops"],
-      content: "\n  awesome-scalability\n\n\nRoadmap\n\nGraphiques montrant les chemins d’apprentissage des technologies Front, Back et DevOps\n\n  developer-roadmap\n\n",
+      content: "\n  awesome-scalability\n  developer-roadmap\n\n",
       tags: ["resources"],
       id: 5
     });
@@ -136,7 +136,7 @@ var store = [{
     "image": null,
     "date": "September 28, 2018",
     "category": ["devops"],
-    "excerpt": "\n  kubectl\n  kubespy\n  kustomize\n  helm\n  minikube\n\n"
+    "excerpt": "\n  awesome-kubernetes\n  kubectl\n  kubespy\n  kustomize\n  helm\n  minikube\n\n"
 },{
     "title": "Ressources Python",
     "link": "/dev/python-resources.html",
@@ -150,7 +150,7 @@ var store = [{
     "image": null,
     "date": "September 2, 2018",
     "category": ["devops"],
-    "excerpt": "\n  awesome-scalability\n\n\nRoadmap\n\nGraphiques montrant les chemins d’apprentissage des technologies Front, Back et DevOps\n\n  developer-roadmap\n\n"
+    "excerpt": "\n  awesome-scalability\n  developer-roadmap\n\n"
 },{
     "title": "Chaos Monkey for Spring Boot",
     "link": "/dev/devops/chaos-monkey-spring-boot.html",
