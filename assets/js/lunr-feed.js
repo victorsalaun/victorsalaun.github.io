@@ -30,7 +30,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Terraform",
       category: ["devops"],
-      content: "Tools\n\n\n  terraform\n  terragrunt\n\n\nBest Practices\n\n\n  terraform-best-practices\n\n",
+      content: "\n    \n\n\nTools\n\n\n  terraform\n  terragrunt\n\n\nBest Practices\n\n\n  terraform-best-practices\n\n",
       tags: ["resources","terraform"],
       id: 2
     });
@@ -39,7 +39,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Kubernetes",
       category: ["devops"],
-      content: "\n  awesome-kubernetes\n  kubectl\n  kubespy\n  kustomize\n  helm\n  minikube\n\n",
+      content: "\n    \n\n\n\n  awesome-kubernetes\n  helm\n  kubectl\n  kubespy\n  kustomize\n  minikube\n\n",
       tags: ["kubernetes","resources"],
       id: 3
     });
@@ -48,7 +48,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Python",
       category: ["dev"],
-      content: "Python libraries\n\n\n  bokeh\n  boto3\n  click\n  cookiecutter\n  datashader\n  docopt\n  flask\n  fuzzywuzzy\n  requests\n\n\nPython tools\n\n\n  credstash\n\n\nCode Quality\n\n\n  black\n  coverage.py\n  flake8\n  pre-commit\n\n\nLearnings\n\n\n  30-seconds-of-python-code\n\n",
+      content: "\n    \n\n\nPython libraries\n\n\n  bokeh\n  boto3\n  click\n  cookiecutter\n  datashader\n  docopt\n  flask\n  fuzzywuzzy\n  requests\n\n\nPython tools\n\n\n  credstash\n\n\nCode Quality\n\n\n  black\n  coverage.py\n  flake8\n  pre-commit\n\n\nLearnings\n\n\n  30-seconds-of-python-code\n\n",
       tags: ["python","resources"],
       id: 4
     });
@@ -57,7 +57,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources DevOps",
       category: ["devops"],
-      content: "\n  awesome-scalability\n  developer-roadmap\n\n",
+      content: "\n    \n\n\n\n  awesome-scalability\n  developer-roadmap\n\n",
       tags: ["resources"],
       id: 5
     });
@@ -129,14 +129,14 @@ var store = [{
     "image": null,
     "date": "September 29, 2018",
     "category": ["devops"],
-    "excerpt": "Tools\n\n\n  terraform\n  terragrunt\n\n\nBest Practices\n\n\n  terraform-best-practices\n\n"
+    "excerpt": "\n    \n\n\nTools\n\n\n  terraform\n  terragrunt\n\n\nBest Practices\n\n\n  terraform-best-practices\n\n"
 },{
     "title": "Ressources Kubernetes",
     "link": "/devops/kubernetes-resources.html",
     "image": null,
     "date": "September 28, 2018",
     "category": ["devops"],
-    "excerpt": "\n  awesome-kubernetes\n  kubectl\n  kubespy\n  kustomize\n  helm\n  minikube\n\n"
+    "excerpt": "\n    \n\n\n\n  awesome-kubernetes\n  helm\n  kubectl\n  kubespy\n  kustomize\n  minikube\n\n"
 },{
     "title": "Ressources Python",
     "link": "/dev/python-resources.html",
@@ -150,7 +150,7 @@ var store = [{
     "image": null,
     "date": "September 2, 2018",
     "category": ["devops"],
-    "excerpt": "\n  awesome-scalability\n  developer-roadmap\n\n"
+    "excerpt": "\n    \n\n\n\n  awesome-scalability\n  developer-roadmap\n\n"
 },{
     "title": "Chaos Monkey for Spring Boot",
     "link": "/dev/devops/chaos-monkey-spring-boot.html",
