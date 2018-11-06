@@ -5,9 +5,29 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Nov 2018 15:41:14 +0000</pubDate>
-    <lastBuildDate>Mon, 05 Nov 2018 15:41:14 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Nov 2018 09:03:47 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Nov 2018 09:03:47 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Signets arts</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codepen.io/noeldelgado/pen/PxwKPW&quot;&gt;Flying Carrot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codepen.io/magnificode/full/qQBBZg&quot;&gt;Time&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 05 Nov 2018 16:35:00 +0000</pubDate>
+        <link>https://victorsalaun.github.io/others/arts-bookmarks.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/others/arts-bookmarks.html</guid>
+        
+        <category>resources</category>
+        
+        <category>arts</category>
+        
+        
+        <category>others</category>
+        
+      </item>
     
       <item>
         <title>Ressources Jeux Vidéo</title>
@@ -106,6 +126,7 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/helm/helm&quot;&gt;helm&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes/kubectl&quot;&gt;kubectl&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pulumi/kubespy&quot;&gt;kubespy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/txn2/kubefwd&quot;&gt;kubefwd&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes-sigs/kustomize&quot;&gt;kustomize&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes/minikube&quot;&gt;minikube&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -349,31 +370,6 @@ Le principal concept se base sur l’état de la cible, il s’agit donc d’une
         <guid isPermaLink="true">https://victorsalaun.github.io/devops/terraform-infrastructure-as-code.html</guid>
         
         <category>terraform</category>
-        
-        
-        <category>devops</category>
-        
-      </item>
-    
-      <item>
-        <title>Carbon - Créer des images du code source</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/dawnlabs/carbon&quot; title=&quot;Carbon&quot;&gt;Carbon&lt;/a&gt; est un outil open source développé par l’équipe &lt;a href=&quot;https://dawnlabs.io/&quot; title=&quot;Dawn Labs&quot;&gt;Dawn Labs&lt;/a&gt; permettant de créer des images sympas affichant du code.&lt;/p&gt;
-
-&lt;p&gt;Prenons l’exemple de développeurs voulant diffuser du code sur Twitter, il peut copier coller tout simplement du code mais sera mal affiché ou faire une capture d’écran souvent mal adaptée à la taille de l’écran. C’est là que Carbon intervient.&lt;/p&gt;
-
-&lt;p&gt;En se rendant sur le site &lt;a href=&quot;https://carbon.now.sh&quot; title=&quot;https://carbon.now.sh&quot;&gt;https://carbon.now.sh&lt;/a&gt; il faut copier coller son code, choisir un thème ainsi que le language du code, nous obtenons l’image suivante :&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/carbon.png&quot; title=&quot;carbon.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Maintenant nous pouvons partager cette image sur Twitter, documenter nos markdown etc.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 12 Feb 2018 20:58:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/devops/carbon-create-beautiful-images-of-your-source-code.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/devops/carbon-create-beautiful-images-of-your-source-code.html</guid>
-        
-        <category>documentation</category>
         
         
         <category>devops</category>
