@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Nov 2018 13:22:51 +0000</pubDate>
-    <lastBuildDate>Wed, 14 Nov 2018 13:22:51 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Nov 2018 13:30:06 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Nov 2018 13:30:06 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -242,6 +242,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/binhnguyennus/awesome-scalability&quot;&gt;awesome-scalability&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kamranahmedse/developer-roadmap&quot;&gt;developer-roadmap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Netflix/hubcommander&quot;&gt;hubcommander&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 02 Sep 2018 00:15:00 +0000</pubDate>
