@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Nov 2018 17:21:16 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Nov 2018 17:21:16 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Nov 2018 13:09:40 +0000</pubDate>
+    <lastBuildDate>Wed, 14 Nov 2018 13:09:40 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -194,6 +194,7 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/docopt/docopt&quot;&gt;docopt&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pallets/flask&quot;&gt;flask&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/seatgeek/fuzzywuzzy&quot;&gt;fuzzywuzzy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/matplotlib/matplotlib&quot;&gt;matplotlib&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/requests/requests&quot;&gt;requests&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
