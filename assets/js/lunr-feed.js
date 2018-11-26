@@ -12,7 +12,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Mobile",
       category: ["mobile"],
-      content: "Tools\n\nBest Practices\n\n\n  best-practices-for-mobile-form-design\n\n",
+      content: "Tools\n\nBest Practices\n\n\n  best-practices-for-mobile-form-design\n\n\nAndroid\n\nArticles\n\n\n  android-architecture-components\n\n",
       tags: ["resources"],
       id: 0
     });
@@ -133,7 +133,7 @@ var store = [{
     "image": null,
     "date": "November 6, 2018",
     "category": ["mobile"],
-    "excerpt": "Tools\n\nBest Practices\n\n\n  best-practices-for-mobile-form-design\n\n"
+    "excerpt": "Tools\n\nBest Practices\n\n\n  best-practices-for-mobile-form-design\n\n\nAndroid\n\nArticles\n\n\n  android-architecture-components\n\n"
 },{
     "title": "Signets Design",
     "link": "/others/design-bookmarks.html",
