@@ -5,9 +5,37 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Nov 2018 16:22:07 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Nov 2018 16:22:07 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Nov 2018 16:28:35 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Nov 2018 16:28:35 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Ressources Jenkins</title>
+        <description>&lt;h1 id=&quot;plugins&quot;&gt;Plugins&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/configuration-as-code-plugin&quot;&gt;configuration-as-code-plugin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;scripts&quot;&gt;Scripts&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cloudbees/jenkins-scripts&quot;&gt;cloudbees/jenkins-scripts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/jenkins-scripts&quot;&gt;jenkinsci/jenkins-scripts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;articles&quot;&gt;Articles&lt;/h1&gt;
+</description>
+        <pubDate>Mon, 26 Nov 2018 17:25:00 +0000</pubDate>
+        <link>https://victorsalaun.github.io/jenkins/jenkins-resources.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/jenkins/jenkins-resources.html</guid>
+        
+        <category>resources</category>
+        
+        
+        <category>jenkins</category>
+        
+      </item>
     
       <item>
         <title>Ressources Mobile</title>
@@ -335,63 +363,6 @@ Cela permettrait de valider constamment le comportement des services entre eux.&
         <category>dev</category>
         
         <category>devops</category>
-        
-      </item>
-    
-      <item>
-        <title>JetBrains Plugins</title>
-        <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/jetbrains.png&quot; title=&quot;jetbrains.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h1 id=&quot;any&quot;&gt;Any&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7495--ignore&quot;&gt;.ignore&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7391-asciidoc&quot;&gt;AsciiDoc&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/4230-bashsupport&quot;&gt;BashSupport&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7724-docker-integration&quot;&gt;Docker integration&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7793-markdown-support&quot;&gt;Markdown support&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/10080-rainbow-brackets&quot;&gt;Rainbow Brackets&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;intellij&quot;&gt;IntelliJ&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7371-aws-cloudformation&quot;&gt;AWS CloudFormation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support&quot;&gt;HashiCorp Terraform / HCL language support&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/6954-kotlin&quot;&gt;Kotlin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/6317-lombok-plugin&quot;&gt;Lombok Plugin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/9333-makefile-support&quot;&gt;Makefile support&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7792-yaml-ansible-support&quot;&gt;YAML/Ansible support&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;webstorm&quot;&gt;WebStorm&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/6971-angularjs&quot;&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/8395-angular-2-typescript-live-templates&quot;&gt;Angular 2 TypeScript Live Templates&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/9564-react-native-console&quot;&gt;React Native Console&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/9442-vue-js&quot;&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;inutiles-donc-indispensables&quot;&gt;Inutiles donc indispensables&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar&quot;&gt;Nyan Progress Bar&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/8251-power-mode-ii&quot;&gt;Power Mode II&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 09 Apr 2018 21:41:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/dev/jetbrains-plugins.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/dev/jetbrains-plugins.html</guid>
-        
-        <category>jetbrains</category>
-        
-        <category>plugins</category>
-        
-        
-        <category>dev</category>
         
       </item>
     
