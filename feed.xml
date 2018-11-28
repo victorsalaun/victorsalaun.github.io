@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Nov 2018 16:28:35 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Nov 2018 16:28:35 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Nov 2018 14:22:44 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Nov 2018 14:22:44 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -64,6 +64,7 @@
   &lt;li&gt;&lt;a href=&quot;https://developer.android.com/topic/libraries/architecture/&quot;&gt;android-architecture-components&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/11/26/android-architecture-components-mise-en-pratique-part-1-configuration-de-lenvironnement/&quot;&gt;android-architecture-components-1&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/11/27/android-architecture-components-mise-en-pratique-part-2-timber-stetho-et-strict-mode/&quot;&gt;android-architecture-components-2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/11/28/android-architecture-components-mise-en-pratique-part-3-dagger/&quot;&gt;android-architecture-components-3&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 06 Nov 2018 10:07:00 +0000</pubDate>
