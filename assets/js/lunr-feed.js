@@ -12,7 +12,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Jenkins",
       category: ["jenkins"],
-      content: "Plugins\n\n\n  configuration-as-code-plugin\n\n\nScripts\n\n\n  cloudbees/jenkins-scripts\n  jenkinsci/jenkins-scripts\n\n\nArticles\n",
+      content: "Plugins\n\n\n  blueocean\n  config-file-provider\n  configuration-as-code-plugin\n  credentials-binding\n  git\n  github-oauth\n  job-dsl\n  kubernetes\n  parameterized-trigger\n  pipeline-utility-steps\n  role-strategy\n  slack\n  workflow-aggregator\n  workflow-job\n  workflow-scm-step\n\n\nScripts\n\n\n  cloudbees/jenkins-scripts\n  jenkinsci/jenkins-scripts\n\n\nArticles\n",
       tags: ["resources"],
       id: 0
     });
@@ -142,7 +142,7 @@ var store = [{
     "image": null,
     "date": "November 26, 2018",
     "category": ["jenkins"],
-    "excerpt": "Plugins\n\n\n  configuration-as-code-plugin\n\n\nScripts\n\n\n  cloudbees/jenkins-scripts\n  jenkinsci/jenkins-scripts\n\n\nArticles\n"
+    "excerpt": "Plugins blueocean config-file-provider configuration-as-code-plugin credentials-binding git github-oauth job-dsl kubernetes parameterized-trigger pipeline-utility-steps role-strategy slack workflow-aggregator workflow-job workflow-scm-step Scripts cloudbees/jenkins-scripts jenkinsci/jenkins-scripts Articles..."
 },{
     "title": "Ressources Mobile",
     "link": "/mobile/mobile-resources.html",

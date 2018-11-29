@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Nov 2018 19:32:33 +0000</pubDate>
-    <lastBuildDate>Thu, 29 Nov 2018 19:32:33 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Nov 2018 19:47:10 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Nov 2018 19:47:10 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -14,7 +14,21 @@
         <description>&lt;h1 id=&quot;plugins&quot;&gt;Plugins&lt;/h1&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/blueocean-plugin&quot;&gt;blueocean&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/config-file-provider-plugin&quot;&gt;config-file-provider&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/configuration-as-code-plugin&quot;&gt;configuration-as-code-plugin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/credentials-binding-plugin&quot;&gt;credentials-binding&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/git-plugin&quot;&gt;git&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/github-oauth-plugin&quot;&gt;github-oauth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/job-dsl-plugin&quot;&gt;job-dsl&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/kubernetes-plugin&quot;&gt;kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/parameterized-trigger-plugin&quot;&gt;parameterized-trigger&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/pipeline-utility-steps-plugin&quot;&gt;pipeline-utility-steps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/role-strategy-plugin&quot;&gt;role-strategy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/slack-plugin&quot;&gt;slack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/workflow-aggregator-plugin&quot;&gt;workflow-aggregator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/workflow-job-plugin&quot;&gt;workflow-job&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/workflow-scm-step-plugin&quot;&gt;workflow-scm-step&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;scripts&quot;&gt;Scripts&lt;/h1&gt;
