@@ -172,6 +172,8 @@
             
                 
             
+                
+            
         </div>
         
     
@@ -202,6 +204,79 @@
 
 
                 
+<article class="post" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="post-header">
+        <ul class="clear">
+            <li><time datetime="2018-11-29T23:03:00+00:00" itemprop="datePublished">29 Nov, 2018</time></li>
+            
+                <li class="cats">
+                    
+                        <a href="/categories/docker/">docker</a>
+                    
+                </li>
+            
+        </ul>
+        <h2 itemprop="name headline"><a href="https://victorsalaun.github.io/docker/docker-resources.html">Ressources Docker</a></h2>
+    </header>
+
+    <div class="post-content">
+        <h1 id="tools">Tools</h1>
+
+<ul>
+  <li><a href="https://github.com/wagoodman/dive">dive</a></li>
+</ul>
+
+<h1 id="presentations">Presentations</h1>
+
+<ul>
+  <li><a href="https://speakerdeck.com/garethr/advanced-docker-image-build-patterns">advanced-docker-image-build-patterns</a></li>
+</ul>
+
+
+        
+    </div>
+
+    <footer class="post-footer">
+        <div class="share">Share
+            <ul class="social-networks">
+                <li class="share-facebook"><a href="https://www.facebook.com/sharer.php?s=100&p[title]=Ressources Docker&p[summary]=Tools
+
+
+  dive
+
+
+Presentations
+
+
+  advanced-docker-image-build-patterns
+
+&p[url]=https://victorsalaun.github.io/docker/docker-resources.html" class="s_facebook" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#facebook-icon"></use></svg></a></a></li>
+                <li class="share-twitter"><a href="http://twitter.com/share?url=https://victorsalaun.github.io/docker/docker-resources.html&text=Tools
+
+
+  dive
+
+
+Presentations
+
+
+  advanced-docker-image-build-patterns
+
+&hashtags=resources," rel="noreferrer" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#twitter-icon"></use></svg></a></li>
+            </ul>
+        </div>
+        
+        <div class="tags">
+            <ul>
+                
+                <li><a href="https://victorsalaun.github.io/tag/resources">resources</a></li>
+                
+            </ul>
+        </div>
+        
+    </footer>
+</article>
+
 <article class="post" role="article" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="post-header">
         <ul class="clear">
@@ -332,7 +407,9 @@
   <li><a href="https://blog.ippon.fr/2018/11/26/android-architecture-components-mise-en-pratique-part-1-configuration-de-lenvironnement/">android-architecture-components-1</a></li>
   <li><a href="https://blog.ippon.fr/2018/11/27/android-architecture-components-mise-en-pratique-part-2-timber-stetho-et-strict-mode/">android-architecture-components-2</a></li>
   <li><a href="https://blog.ippon.fr/2018/11/28/android-architecture-components-mise-en-pratique-part-3-dagger/">android-architecture-components-3</a></li>
-  <li><a href="https://blog.ippon.fr/2018/11/29/android-architecture-components-mise-en-pratique-part-4-preparation-de-la-vue/">android-architecture-components-4</a></li>
+  <li><a href="https://blog.ippon.fr/2018/11/29/android-architecture-components-mise-en-pratique-part-4-preparation-de-la-vue/">android-architecture-components-4</a>`</li>
+  <li><a href="https://blog.ippon.fr/2018/11/30/android-architecture-components-mise-en-pratique-part-5-fuel/">android-architecture-components-5</a></li>
+  <li><a href="https://blog.ippon.fr/2018/12/01/android-architecture-components-mise-en-pratique-part-6-viewmodel-livedata/">android-architecture-components-6</a></li>
 </ul>
 
 
@@ -980,100 +1057,6 @@ Py...&hashtags=python,resources," rel="noreferrer" target="_blank" onclick="wind
             <ul>
                 
                 <li><a href="https://victorsalaun.github.io/tag/resources">resources</a></li>
-                
-            </ul>
-        </div>
-        
-    </footer>
-</article>
-
-<article class="post" role="article" itemscope itemtype="http://schema.org/BlogPosting">
-    <header class="post-header">
-        <ul class="clear">
-            <li><time datetime="2018-04-18T12:50:00+00:00" itemprop="datePublished">18 Apr, 2018</time></li>
-            
-                <li class="cats">
-                    
-                        <a href="/categories/dev/">dev</a>
-                    
-                        <a href="/categories/devops/">devops</a>
-                    
-                </li>
-            
-        </ul>
-        <h2 itemprop="name headline"><a href="https://victorsalaun.github.io/dev/devops/chaos-monkey-spring-boot.html">Chaos Monkey for Spring Boot</a></h2>
-    </header>
-
-    <div class="post-content">
-        <p align="center">
-    <img src="https://victorsalaun.github.io/assets/img/chaos-monkey.png" title="chaos-monkey.png" style="height: 300px; width: 300px;" />
-</p>
-
-<p><a href="https://github.com/codecentric/chaos-monkey-spring-boot">Chaos Monkey for Spring Boot</a> développé par l’équipe <a href="https://www.codecentric.de/">codecentric</a> est une dépendance Spring Boot 2 permettant de faire du <a href="https://principlesofchaos.org/">Chaos Engineering</a>.</p>
-
-<p>La mise en place est simple, il suffit d’ajouter la dépendance maven au pom.xml et régler quelques conf YAML.
-Le reste du code source n’est pas modifié.</p>
-
-<p>Ce projet propose trois types d’attaque :</p>
-<ul>
-  <li>Ajout de latences aux appels de méthodes</li>
-  <li>Ajout d’exceptions aux appels de méthodes</li>
-  <li>Tuer l’application</li>
-</ul>
-
-<p>Ce projet se base sur les annotations Spring :</p>
-<ul>
-  <li>@Controller</li>
-  <li>@RestController</li>
-  <li>@Service</li>
-  <li>@Repository</li>
-</ul>
-
-<p>Voici un exemple de configuration :</p>
-<div class="highlighter-rouge"><pre class="highlight"><code>chaos:
-  monkey:
-    assaults:
-      latencyActive: true
-      level: 1
-      exceptionsActive: true
-      killApplicationActive: true
-    watcher:
-      repository: true
-      restController: true
-      service: true
-</code></pre>
-</div>
-
-<p>Dans la pratique il n’est pas conseillé d’utiliser ce type d’outils en production.
-Mais supposons une infra en micro-services, pourquoi ne pas lancer une instance de l’application en mode chaos.
-Cela permettrait de valider constamment le comportement des services entre eux.</p>
-
-<p><a href="https://github.com/victorsalaun/chaos-monkey-spring-boot-demo">Demo</a></p>
-
-
-        
-    </div>
-
-    <footer class="post-footer">
-        <div class="share">Share
-            <ul class="social-networks">
-                <li class="share-facebook"><a href="https://www.facebook.com/sharer.php?s=100&p[title]=Chaos Monkey for Spring Boot&p[summary]=
-    
-
-
-Chaos Monkey for Spring Boot développé par l’équipe codecentric est une dépendance Spring Boot 2 permettant de faire du Chaos Eng...&p[url]=https://victorsalaun.github.io/dev/devops/chaos-monkey-spring-boot.html" class="s_facebook" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#facebook-icon"></use></svg></a></a></li>
-                <li class="share-twitter"><a href="http://twitter.com/share?url=https://victorsalaun.github.io/dev/devops/chaos-monkey-spring-boot.html&text=
-    
-
-
-Chaos Monkey for Spring Boot développé par l’équipe codecentric est une dépendance Spring Boot 2 permettant de faire du Chaos Eng...&hashtags=ChaosEngineering," rel="noreferrer" target="_blank" onclick="window.open(this.href, '','width=700,height=300');return false;"><svg title="" width="16" height="16"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://victorsalaun.github.io/assets/svg/social-icons.svg#twitter-icon"></use></svg></a></li>
-            </ul>
-        </div>
-        
-        <div class="tags">
-            <ul>
-                
-                <li><a href="https://victorsalaun.github.io/tag/ChaosEngineering">ChaosEngineering</a></li>
                 
             </ul>
         </div>

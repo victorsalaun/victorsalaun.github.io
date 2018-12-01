@@ -5,9 +5,34 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Nov 2018 22:05:55 +0000</pubDate>
-    <lastBuildDate>Thu, 29 Nov 2018 22:05:55 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Dec 2018 19:38:26 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Dec 2018 19:38:26 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Ressources Docker</title>
+        <description>&lt;h1 id=&quot;tools&quot;&gt;Tools&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wagoodman/dive&quot;&gt;dive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;presentations&quot;&gt;Presentations&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/garethr/advanced-docker-image-build-patterns&quot;&gt;advanced-docker-image-build-patterns&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 29 Nov 2018 23:03:00 +0000</pubDate>
+        <link>https://victorsalaun.github.io/docker/docker-resources.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/docker/docker-resources.html</guid>
+        
+        <category>resources</category>
+        
+        
+        <category>docker</category>
+        
+      </item>
     
       <item>
         <title>Ressources Jenkins</title>
@@ -79,7 +104,9 @@
   &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/11/26/android-architecture-components-mise-en-pratique-part-1-configuration-de-lenvironnement/&quot;&gt;android-architecture-components-1&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/11/27/android-architecture-components-mise-en-pratique-part-2-timber-stetho-et-strict-mode/&quot;&gt;android-architecture-components-2&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/11/28/android-architecture-components-mise-en-pratique-part-3-dagger/&quot;&gt;android-architecture-components-3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/11/29/android-architecture-components-mise-en-pratique-part-4-preparation-de-la-vue/&quot;&gt;android-architecture-components-4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/11/29/android-architecture-components-mise-en-pratique-part-4-preparation-de-la-vue/&quot;&gt;android-architecture-components-4&lt;/a&gt;`&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/11/30/android-architecture-components-mise-en-pratique-part-5-fuel/&quot;&gt;android-architecture-components-5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/12/01/android-architecture-components-mise-en-pratique-part-6-viewmodel-livedata/&quot;&gt;android-architecture-components-6&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 06 Nov 2018 10:07:00 +0000</pubDate>
@@ -317,66 +344,6 @@
         
         <category>resources</category>
         
-        
-        <category>devops</category>
-        
-      </item>
-    
-      <item>
-        <title>Chaos Monkey for Spring Boot</title>
-        <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/chaos-monkey.png&quot; title=&quot;chaos-monkey.png&quot; style=&quot;height: 300px; width: 300px;&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/codecentric/chaos-monkey-spring-boot&quot;&gt;Chaos Monkey for Spring Boot&lt;/a&gt; développé par l’équipe &lt;a href=&quot;https://www.codecentric.de/&quot;&gt;codecentric&lt;/a&gt; est une dépendance Spring Boot 2 permettant de faire du &lt;a href=&quot;https://principlesofchaos.org/&quot;&gt;Chaos Engineering&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;La mise en place est simple, il suffit d’ajouter la dépendance maven au pom.xml et régler quelques conf YAML.
-Le reste du code source n’est pas modifié.&lt;/p&gt;
-
-&lt;p&gt;Ce projet propose trois types d’attaque :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ajout de latences aux appels de méthodes&lt;/li&gt;
-  &lt;li&gt;Ajout d’exceptions aux appels de méthodes&lt;/li&gt;
-  &lt;li&gt;Tuer l’application&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ce projet se base sur les annotations Spring :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;@Controller&lt;/li&gt;
-  &lt;li&gt;@RestController&lt;/li&gt;
-  &lt;li&gt;@Service&lt;/li&gt;
-  &lt;li&gt;@Repository&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Voici un exemple de configuration :&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;chaos:
-  monkey:
-    assaults:
-      latencyActive: true
-      level: 1
-      exceptionsActive: true
-      killApplicationActive: true
-    watcher:
-      repository: true
-      restController: true
-      service: true
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Dans la pratique il n’est pas conseillé d’utiliser ce type d’outils en production.
-Mais supposons une infra en micro-services, pourquoi ne pas lancer une instance de l’application en mode chaos.
-Cela permettrait de valider constamment le comportement des services entre eux.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/victorsalaun/chaos-monkey-spring-boot-demo&quot;&gt;Demo&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 18 Apr 2018 12:50:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/dev/devops/chaos-monkey-spring-boot.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/dev/devops/chaos-monkey-spring-boot.html</guid>
-        
-        <category>ChaosEngineering</category>
-        
-        
-        <category>dev</category>
         
         <category>devops</category>
         
