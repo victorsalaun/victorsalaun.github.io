@@ -30,7 +30,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Mobile",
       category: ["mobile"],
-      content: "Tools\n\nBest Practices\n\n\n  best-practices-for-mobile-form-design\n\n\nAndroid\n\nLibraries\n\n\n  dagger\n  Fuel\n  stetho\n  timber\n\n\nArticles\n\n\n  android-architecture-components\n  android-architecture-components-1\n  android-architecture-components-2\n  android-architecture-components-3\n  android-architecture-components-4`\n  android-architecture-components-5\n  android-architecture-components-6\n\n",
+      content: "Tools\n\nBest Practices\n\n\n  best-practices-for-mobile-form-design\n\n\nAndroid\n\nLibraries\n\n\n  dagger\n  Fuel\n  stetho\n  timber\n\n\nArticles\n\n\n  android-architecture-components\n  android-architecture-components-1\n  android-architecture-components-2\n  android-architecture-components-3\n  android-architecture-components-4`\n  android-architecture-components-5\n  android-architecture-components-6\n  android-architecture-components-7\n\n",
       tags: ["resources"],
       id: 2
     });
@@ -165,7 +165,7 @@ var store = [{
     "image": null,
     "date": "November 6, 2018",
     "category": ["mobile"],
-    "excerpt": "Tools\n\nBest Practices\n\n\n  best-practices-for-mobile-form-design\n\n\nAndroid\n\nLibraries\n\n\n  dagger\n  Fuel\n  stetho\n  timber\n\n\nArticles\n\n\n  android-architecture-components\n  android-architecture-components-1\n  android-architecture-components-2\n  android-architecture-components-3\n  android-architecture-components-4`\n  android-architecture-components-5\n  android-architecture-components-6\n\n"
+    "excerpt": "Tools\n\nBest Practices\n\n\n  best-practices-for-mobile-form-design\n\n\nAndroid\n\nLibraries\n\n\n  dagger\n  Fuel\n  stetho\n  timber\n\n\nArticles\n\n\n  android-architecture-components\n  android-architecture-components-1\n  android-architecture-components-2\n  android-architecture-components-3\n  android-architecture-components-4`\n  android-architecture-components-5\n  android-architecture-components-6\n  android-architecture-components-7\n\n"
 },{
     "title": "Signets Design",
     "link": "/others/design-bookmarks.html",
