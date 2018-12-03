@@ -39,7 +39,7 @@ var index = lunr(function () {
     index.add({
       title: "Signets Design",
       category: ["others"],
-      content: "CodePen\n\n\n  Flying Carrot\n  Gravity Reverse\n  Kong3D\n  Low Poly Art Generator\n  Jurassic Internet\n  Quarto\n  Time\n\n",
+      content: "CodePen\n\n\n  Flappy Dino\n  Flying Carrot\n  Gravity Reverse\n  Kong3D\n  Low Poly Art Generator\n  Jurassic Internet\n  Quarto\n  Time\n\n",
       tags: ["resources","design"],
       id: 3
     });
@@ -172,7 +172,7 @@ var store = [{
     "image": null,
     "date": "November 5, 2018",
     "category": ["others"],
-    "excerpt": "CodePen\n\n\n  Flying Carrot\n  Gravity Reverse\n  Kong3D\n  Low Poly Art Generator\n  Jurassic Internet\n  Quarto\n  Time\n\n"
+    "excerpt": "CodePen\n\n\n  Flappy Dino\n  Flying Carrot\n  Gravity Reverse\n  Kong3D\n  Low Poly Art Generator\n  Jurassic Internet\n  Quarto\n  Time\n\n"
 },{
     "title": "Ressources Jeux Vidéo",
     "link": "/dev/video-games-resources.html",
