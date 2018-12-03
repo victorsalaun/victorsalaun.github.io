@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Dec 2018 19:37:31 +0000</pubDate>
-    <lastBuildDate>Mon, 03 Dec 2018 19:37:31 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Dec 2018 19:38:59 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Dec 2018 19:38:59 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -43,6 +43,7 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/config-file-provider-plugin&quot;&gt;config-file-provider&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/configuration-as-code-plugin&quot;&gt;configuration-as-code-plugin&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/credentials-binding-plugin&quot;&gt;credentials-binding&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/folder-properties-plugin&quot;&gt;folder-properties-plugin&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/git-plugin&quot;&gt;git&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/github-oauth-plugin&quot;&gt;github-oauth&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/job-dsl-plugin&quot;&gt;job-dsl&lt;/a&gt;&lt;/li&gt;
