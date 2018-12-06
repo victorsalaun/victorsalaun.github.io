@@ -39,7 +39,7 @@ var index = lunr(function () {
     index.add({
       title: "Signets Design",
       category: ["others"],
-      content: "CodePen\n\n\n  Flappy Dino\n  Flying Carrot\n  Gravity Reverse\n  Kong3D\n  mix-blend-mode hadouken\n  Jurassic Internet\n  Low Poly Art Generator\n  Quarto\n  Time\n\n",
+      content: "CodePen\n\n\n  Flappy Dino\n  Flying Carrot\n  Gravity Reverse\n  Kong3D\n  mix-blend-mode hadouken\n  Jurassic Internet\n  Low Poly Art Generator\n  Quarto\n  Time\n\n\nBest Practices\n\n\n  7-practical-tips-for-cheating-at-design\n\n",
       tags: ["resources","design"],
       id: 3
     });
@@ -172,7 +172,7 @@ var store = [{
     "image": null,
     "date": "November 5, 2018",
     "category": ["others"],
-    "excerpt": "CodePen\n\n\n  Flappy Dino\n  Flying Carrot\n  Gravity Reverse\n  Kong3D\n  mix-blend-mode hadouken\n  Jurassic Internet\n  Low Poly Art Generator\n  Quarto\n  Time\n\n"
+    "excerpt": "CodePen Flappy Dino Flying Carrot Gravity Reverse Kong3D mix-blend-mode hadouken Jurassic Internet Low Poly Art Generator Quarto Time Best Practices..."
 },{
     "title": "Ressources Jeux Vidéo",
     "link": "/dev/video-games-resources.html",
