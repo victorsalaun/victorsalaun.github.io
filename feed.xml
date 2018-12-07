@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Dec 2018 21:46:12 +0000</pubDate>
-    <lastBuildDate>Thu, 06 Dec 2018 21:46:12 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Dec 2018 08:55:50 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Dec 2018 08:55:50 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -124,7 +124,13 @@
     
       <item>
         <title>Signets Design</title>
-        <description>&lt;h1 id=&quot;codepen&quot;&gt;CodePen&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;best-practices&quot;&gt;Best Practices&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886&quot;&gt;7-practical-tips-for-cheating-at-design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;codepen&quot;&gt;CodePen&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://codepen.io/mlho/pen/zMejmo&quot;&gt;Flappy Dino&lt;/a&gt;&lt;/li&gt;
@@ -138,10 +144,10 @@
   &lt;li&gt;&lt;a href=&quot;https://codepen.io/magnificode/full/qQBBZg&quot;&gt;Time&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;best-practices&quot;&gt;Best Practices&lt;/h1&gt;
+&lt;h1 id=&quot;libraries&quot;&gt;Libraries&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886&quot;&gt;7-practical-tips-for-cheating-at-design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nostalgic-css/NES.css&quot;&gt;NES.css&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 05 Nov 2018 16:35:00 +0000</pubDate>
