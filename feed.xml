@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Dec 2018 08:55:50 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Dec 2018 08:55:50 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Dec 2018 08:59:35 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Dec 2018 08:59:35 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -302,6 +302,7 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/pallets/click&quot;&gt;click&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/audreyr/cookiecutter&quot;&gt;cookiecutter&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pyviz/datashader&quot;&gt;datashader&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tehmaze/diagram&quot;&gt;diagram&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/docopt/docopt&quot;&gt;docopt&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pallets/flask&quot;&gt;flask&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/seatgeek/fuzzywuzzy&quot;&gt;fuzzywuzzy&lt;/a&gt;&lt;/li&gt;

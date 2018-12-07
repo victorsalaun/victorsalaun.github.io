@@ -84,7 +84,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Python",
       category: ["dev"],
-      content: "\n    \n\n\nPython libraries\n\n\n  bokeh\n  boto3\n  click\n  cookiecutter\n  datashader\n  docopt\n  flask\n  fuzzywuzzy\n  matplotlib\n  requests\n\n\nPython tools\n\n\n  credstash\n\n\nCode Quality\n\n\n  black\n  coverage.py\n  flake8\n  pre-commit\n\n\nLearnings\n\n\n  30-seconds-of-python-code\n\n",
+      content: "\n    \n\n\nPython libraries\n\n\n  bokeh\n  boto3\n  click\n  cookiecutter\n  datashader\n  diagram\n  docopt\n  flask\n  fuzzywuzzy\n  matplotlib\n  requests\n\n\nPython tools\n\n\n  credstash\n\n\nCode Quality\n\n\n  black\n  coverage.py\n  flake8\n  pre-commit\n\n\nLearnings\n\n\n  30-seconds-of-python-code\n\n",
       tags: ["python","resources"],
       id: 8
     });
@@ -207,7 +207,7 @@ var store = [{
     "image": null,
     "date": "September 13, 2018",
     "category": ["dev"],
-    "excerpt": "Python libraries bokeh boto3 click cookiecutter datashader docopt flask fuzzywuzzy matplotlib requests Python tools credstash Code Quality black coverage.py flake8..."
+    "excerpt": "Python libraries bokeh boto3 click cookiecutter datashader diagram docopt flask fuzzywuzzy matplotlib requests Python tools credstash Code Quality black coverage.py..."
 },{
     "title": "Ressources DevOps",
     "link": "/devops/devops-resources.html",
