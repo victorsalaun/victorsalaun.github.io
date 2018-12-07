@@ -75,7 +75,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Kubernetes",
       category: ["devops"],
-      content: "\n    \n\n\nTutorials\n\n\n  aws-workshop-for-kubernetes\n  continuous-deployment-on-kubernetes\n\n\nTools\n\n\n  awesome-kubernetes\n  helm\n  kube-bench\n  kubectl\n  kubespy\n  kubefwd\n  kustomize\n  minikube\n\n",
+      content: "\n    \n\n\nTutorials\n\n\n  aws-workshop-for-kubernetes\n  continuous-deployment-on-kubernetes\n\n\nTools\n\n\n  awesome-kubernetes\n  helm\n  kube-bench\n  kube-ops-view\n  kubectl\n  kubespy\n  kubefwd\n  kustomize\n  minikube\n\n",
       tags: ["kubernetes","resources"],
       id: 7
     });
@@ -200,7 +200,7 @@ var store = [{
     "image": null,
     "date": "September 28, 2018",
     "category": ["devops"],
-    "excerpt": "\n    \n\n\nTutorials\n\n\n  aws-workshop-for-kubernetes\n  continuous-deployment-on-kubernetes\n\n\nTools\n\n\n  awesome-kubernetes\n  helm\n  kube-bench\n  kubectl\n  kubespy\n  kubefwd\n  kustomize\n  minikube\n\n"
+    "excerpt": "\n    \n\n\nTutorials\n\n\n  aws-workshop-for-kubernetes\n  continuous-deployment-on-kubernetes\n\n\nTools\n\n\n  awesome-kubernetes\n  helm\n  kube-bench\n  kube-ops-view\n  kubectl\n  kubespy\n  kubefwd\n  kustomize\n  minikube\n\n"
 },{
     "title": "Ressources Python",
     "link": "/dev/python-resources.html",

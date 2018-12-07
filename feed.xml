@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Dec 2018 08:59:35 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Dec 2018 08:59:35 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Dec 2018 12:55:57 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Dec 2018 12:55:57 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -268,6 +268,7 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/ramitsurana/awesome-kubernetes&quot;&gt;awesome-kubernetes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/helm/helm&quot;&gt;helm&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/aquasecurity/kube-bench&quot;&gt;kube-bench&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hjacobs/kube-ops-view&quot;&gt;kube-ops-view&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes/kubectl&quot;&gt;kubectl&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/pulumi/kubespy&quot;&gt;kubespy&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/txn2/kubefwd&quot;&gt;kubefwd&lt;/a&gt;&lt;/li&gt;
