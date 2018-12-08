@@ -13,7 +13,7 @@ var index = lunr(function () {
       title: "Ressources Docker",
       category: ["docker"],
       content: "Tools\n\n\n  dive\n\n\nPresentations\n\n\n  advanced-docker-image-build-patterns\n\n",
-      tags: ["resources"],
+      tags: ["resources","docker"],
       id: 0
     });
     

@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Dec 2018 12:55:57 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Dec 2018 12:55:57 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Dec 2018 20:09:13 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Dec 2018 20:09:13 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -28,6 +28,8 @@
         <guid isPermaLink="true">https://victorsalaun.github.io/docker/docker-resources.html</guid>
         
         <category>resources</category>
+        
+        <category>docker</category>
         
         
         <category>docker</category>
