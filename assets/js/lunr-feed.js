@@ -48,7 +48,7 @@ var index = lunr(function () {
     index.add({
       title: "Signets Design",
       category: ["others"],
-      content: "Best Practices\n\n\n  7-practical-tips-for-cheating-at-design\n\n\nCodePen\n\n\n  Flappy Dino\n  Flying Carrot\n  Gravity Reverse\n  Kong3D\n  mix-blend-mode hadouken\n  Jurassic Internet\n  Low Poly Art Generator\n  Quarto\n  Time\n\n\nLibraries\n\n\n  NES.css\n\n",
+      content: "Best Practices\n\n\n  7-practical-tips-for-cheating-at-design\n\n\nCodePen\n\n\n  Flappy Dino\n  Floating island with waterfall\n  Flying Carrot\n  Gravity Reverse\n  Kong3D\n  mix-blend-mode hadouken\n  Jurassic Internet\n  Low Poly Art Generator\n  Quarto\n  Time\n\n\nLibraries\n\n\n  NES.css\n\n",
       tags: ["resources","design"],
       id: 4
     });
@@ -188,7 +188,7 @@ var store = [{
     "image": null,
     "date": "November 5, 2018",
     "category": ["others"],
-    "excerpt": "Best Practices 7-practical-tips-for-cheating-at-design CodePen Flappy Dino Flying Carrot Gravity Reverse Kong3D mix-blend-mode hadouken Jurassic Internet Low Poly Art Generator Quarto..."
+    "excerpt": "Best Practices 7-practical-tips-for-cheating-at-design CodePen Flappy Dino Floating island with waterfall Flying Carrot Gravity Reverse Kong3D mix-blend-mode hadouken Jurassic Internet Low..."
 },{
     "title": "Ressources Jeux Vidéo",
     "link": "/dev/video-games-resources.html",
