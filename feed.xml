@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Dec 2018 17:16:21 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Dec 2018 17:16:21 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Dec 2018 21:47:14 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Dec 2018 21:47:14 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -308,6 +308,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/aws-samples/aws-workshop-for-kubernetes&quot;&gt;aws-workshop-for-kubernetes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes&quot;&gt;continuous-deployment-on-kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/kubernetes-engine/kubernetes-comic/&quot;&gt;smooth-sailing-with-kubernetes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;tools&quot;&gt;Tools&lt;/h1&gt;
