@@ -84,7 +84,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Terraform",
       category: ["devops"],
-      content: "\n    \n\n\nTools\n\n\n  terraform\n  terragrunt\n\n\nBest Practices\n\n\n  terraform-best-practices\n\n",
+      content: "\n    \n\n\nTools\n\n\n  terraform\n  terragrunt\n  terratest\n\n\nBest Practices\n\n\n  terraform-best-practices\n\n",
       tags: ["resources","terraform"],
       id: 8
     });
@@ -225,7 +225,7 @@ var store = [{
     "image": null,
     "date": "September 29, 2018",
     "category": ["devops"],
-    "excerpt": "\n    \n\n\nTools\n\n\n  terraform\n  terragrunt\n\n\nBest Practices\n\n\n  terraform-best-practices\n\n"
+    "excerpt": "\n    \n\n\nTools\n\n\n  terraform\n  terragrunt\n  terratest\n\n\nBest Practices\n\n\n  terraform-best-practices\n\n"
 },{
     "title": "Ressources Kubernetes",
     "link": "/devops/kubernetes-resources.html",
