@@ -5,9 +5,32 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Dec 2018 22:09:57 +0000</pubDate>
-    <lastBuildDate>Tue, 18 Dec 2018 22:09:57 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Dec 2018 08:59:29 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Dec 2018 08:59:29 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Ressources Organisationnelles</title>
+        <description>&lt;h1 id=&quot;links&quot;&gt;Links&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/leadership-continuous-improvement&quot;&gt;Leadership as continuous improvement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/responsive-organization&quot;&gt;The responsive organization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/responsible-organization&quot;&gt;The responsible organization&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 18 Dec 2018 23:04:00 +0000</pubDate>
+        <link>https://victorsalaun.github.io/human/organizational-resources.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/human/organizational-resources.html</guid>
+        
+        <category>resources</category>
+        
+        <category>human</category>
+        
+        
+        <category>human</category>
+        
+      </item>
     
       <item>
         <title>Contributions Open Source</title>
@@ -315,6 +338,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/ramitsurana/awesome-kubernetes&quot;&gt;awesome-kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bloomberg/goldpinger&quot;&gt;goldpinger&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/helm/helm&quot;&gt;helm&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/aquasecurity/kube-bench&quot;&gt;kube-bench&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/hjacobs/kube-ops-view&quot;&gt;kube-ops-view&lt;/a&gt;&lt;/li&gt;
@@ -335,64 +359,6 @@
         
         
         <category>devops</category>
-        
-      </item>
-    
-      <item>
-        <title>Ressources Python</title>
-        <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/python.png&quot; title=&quot;python.png&quot; style=&quot;height: 300px; width: 300px;&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h1 id=&quot;python-libraries&quot;&gt;Python libraries&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/bokeh/bokeh&quot;&gt;bokeh&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/boto/boto3&quot;&gt;boto3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/pallets/click&quot;&gt;click&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/audreyr/cookiecutter&quot;&gt;cookiecutter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/pyviz/datashader&quot;&gt;datashader&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tehmaze/diagram&quot;&gt;diagram&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/docopt/docopt&quot;&gt;docopt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/pallets/flask&quot;&gt;flask&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/seatgeek/fuzzywuzzy&quot;&gt;fuzzywuzzy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Delgan/loguru&quot;&gt;loguru&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/matplotlib/matplotlib&quot;&gt;matplotlib&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/PyGithub/PyGithub&quot;&gt;PyGitHub&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/requests/requests&quot;&gt;requests&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;python-tools&quot;&gt;Python tools&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/fugue/credstash&quot;&gt;credstash&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;code-quality&quot;&gt;Code Quality&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ambv/black&quot;&gt;black&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/nedbat/coveragepy&quot;&gt;coverage.py&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://gitlab.com/pycqa/flake8&quot;&gt;flake8&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/pre-commit/pre-commit&quot;&gt;pre-commit&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;learnings&quot;&gt;Learnings&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kriadmin/30-seconds-of-python-code&quot;&gt;30-seconds-of-python-code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 13 Sep 2018 21:08:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/dev/python-resources.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/dev/python-resources.html</guid>
-        
-        <category>python</category>
-        
-        <category>resources</category>
-        
-        
-        <category>dev</category>
         
       </item>
     
