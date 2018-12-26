@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Dec 2018 17:26:51 +0000</pubDate>
-    <lastBuildDate>Wed, 19 Dec 2018 17:26:51 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Dec 2018 21:29:31 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Dec 2018 21:29:31 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -149,17 +149,15 @@
     
       <item>
         <title>Ressources Mobile</title>
-        <description>&lt;h1 id=&quot;tools&quot;&gt;Tools&lt;/h1&gt;
-
-&lt;h1 id=&quot;best-practices&quot;&gt;Best Practices&lt;/h1&gt;
+        <description>&lt;h2 id=&quot;best-practices&quot;&gt;Best Practices&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/&quot;&gt;best-practices-for-mobile-form-design&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;android&quot;&gt;Android&lt;/h1&gt;
+&lt;h2 id=&quot;android&quot;&gt;Android&lt;/h2&gt;
 
-&lt;h2 id=&quot;libraries&quot;&gt;Libraries&lt;/h2&gt;
+&lt;h4 id=&quot;libraries&quot;&gt;Libraries&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/google/dagger&quot;&gt;dagger&lt;/a&gt;&lt;/li&gt;
@@ -168,7 +166,7 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/JakeWharton/timber&quot;&gt;timber&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;articles&quot;&gt;Articles&lt;/h2&gt;
+&lt;h4 id=&quot;articles&quot;&gt;Articles&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://developer.android.com/topic/libraries/architecture/&quot;&gt;android-architecture-components&lt;/a&gt;&lt;/li&gt;
@@ -179,6 +177,12 @@
   &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/11/30/android-architecture-components-mise-en-pratique-part-5-fuel/&quot;&gt;android-architecture-components-5&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/12/01/android-architecture-components-mise-en-pratique-part-6-viewmodel-livedata/&quot;&gt;android-architecture-components-6&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.ippon.fr/2018/12/02/android-architecture-components-mise-en-pratique-part-7-room/&quot;&gt;android-architecture-components-7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;samples&quot;&gt;Samples&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/googlesamples/android-architecture-components&quot;&gt;googlesamples/android-architecture-components&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 06 Nov 2018 10:07:00 +0000</pubDate>
