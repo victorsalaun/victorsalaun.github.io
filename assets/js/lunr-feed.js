@@ -48,7 +48,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Mobile",
       category: ["mobile"],
-      content: "Best Practices\n\n\n  best-practices-for-mobile-form-design\n\n\nAndroid\n\nLibraries\n\n\n  dagger\n  Fuel\n  stetho\n  timber\n\n\nArticles\n\n\n  android-architecture-components\n  android-architecture-components-1\n  android-architecture-components-2\n  android-architecture-components-3\n  android-architecture-components-4`\n  android-architecture-components-5\n  android-architecture-components-6\n  android-architecture-components-7\n\n\nSamples\n\n\n  googlesamples/android-architecture-components\n\n",
+      content: "Best Practices\n\n\n  smashingmagazine/best-practices-for-mobile-form-design\n\n\nAndroid\n\nLibraries\n\n\n  facebook/stetho\n  google/dagger\n  JakeWharton/timber\n  kittinunf/Fuel\n  Kotlin/anko\n\n\nArticles\n\n\n  android/android-architecture-components\n  ippon/android-architecture-components-1\n  ippon/android-architecture-components-2\n  ippon/android-architecture-components-3\n  ippon/android-architecture-components-4`\n  ippon/android-architecture-components-5\n  ippon/android-architecture-components-6\n  ippon/android-architecture-components-7\n\n\nSamples\n\n\n  googlesamples/android-architecture-components\n\n",
       tags: ["resources"],
       id: 4
     });
@@ -197,7 +197,7 @@ var store = [{
     "image": null,
     "date": "November 6, 2018",
     "category": ["mobile"],
-    "excerpt": "Best Practices best-practices-for-mobile-form-design Android Libraries dagger Fuel stetho timber Articles android-architecture-components android-architecture-components-1 android-architecture-components-2 android-architecture-components-3 android-architecture-components-4` android-architecture-components-5 android-architecture-components-6 android-architecture-components-7 Samples googlesamples/android-architecture-components..."
+    "excerpt": "Best Practices smashingmagazine/best-practices-for-mobile-form-design Android Libraries facebook/stetho google/dagger JakeWharton/timber kittinunf/Fuel Kotlin/anko Articles android/android-architecture-components ippon/android-architecture-components-1 ippon/android-architecture-components-2 ippon/android-architecture-components-3 ippon/android-architecture-components-4` ippon/android-architecture-components-5 ippon/android-architecture-components-6 ippon/android-architecture-components-7 Samples..."
 },{
     "title": "Signets Design",
     "link": "/others/design-bookmarks.html",
