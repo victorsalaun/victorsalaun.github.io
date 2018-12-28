@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Dec 2018 23:40:46 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Dec 2018 23:40:46 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Dec 2018 12:35:10 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Dec 2018 12:35:10 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -160,6 +160,7 @@
 &lt;h4 id=&quot;libraries&quot;&gt;Libraries&lt;/h4&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bumptech/glide&quot;&gt;bumptech / glide&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/facebook/stetho&quot;&gt;facebook / stetho&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/google/dagger&quot;&gt;google / dagger&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/JakeWharton/timber&quot;&gt;JakeWharton / timber&lt;/a&gt;&lt;/li&gt;
