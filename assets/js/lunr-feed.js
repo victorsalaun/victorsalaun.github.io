@@ -48,7 +48,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Mobile",
       category: ["mobile"],
-      content: "Best Practices\n\n\n  smashingmagazine / best-practices-for-mobile-form-design\n\n\nAndroid\n\nLibraries\n\n\n  bumptech / glide\n  facebook / stetho\n  google / dagger\n  JakeWharton / timber\n  kittinunf / Fuel\n  Kotlin / anko\n  square / picasso\n  square / retrofit\n\n\nArticles\n\n\n  android / android-architecture-components\n  ippon / android-architecture-components-1\n  ippon / android-architecture-components-2\n  ippon / android-architecture-components-3\n  ippon / android-architecture-components-4`\n  ippon / android-architecture-components-5\n  ippon / android-architecture-components-6\n  ippon / android-architecture-components-7\n\n\nSamples\n\n\n  googlesamples / android-architecture-components\n\n",
+      content: "Best Practices\n\n\n  smashingmagazine / best-practices-for-mobile-form-design\n\n\nAndroid\n\nLibraries\n\n\n  bumptech / glide\n  facebook / stetho\n  google / dagger\n  InsertKoinIO / koin\n  JakeWharton / timber\n  kittinunf / Fuel\n  Kotlin / anko\n  square / picasso\n  square / retrofit\n\n\nArticles\n\n\n  android / android-architecture-components\n  ippon / android-architecture-components-1\n  ippon / android-architecture-components-2\n  ippon / android-architecture-components-3\n  ippon / android-architecture-components-4`\n  ippon / android-architecture-components-5\n  ippon / android-architecture-components-6\n  ippon / android-architecture-components-7\n\n\nSamples\n\n\n  googlesamples / android-architecture-components\n\n",
       tags: ["resources"],
       id: 4
     });
@@ -197,7 +197,7 @@ var store = [{
     "image": null,
     "date": "November 6, 2018",
     "category": ["mobile"],
-    "excerpt": "Best Practices smashingmagazine / best-practices-for-mobile-form-design Android Libraries bumptech / glide facebook / stetho google / dagger JakeWharton / timber kittinunf..."
+    "excerpt": "Best Practices smashingmagazine / best-practices-for-mobile-form-design Android Libraries bumptech / glide facebook / stetho google / dagger InsertKoinIO / koin JakeWharton..."
 },{
     "title": "Signets Design",
     "link": "/others/design-bookmarks.html",
