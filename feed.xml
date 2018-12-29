@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Dec 2018 13:25:51 +0000</pubDate>
-    <lastBuildDate>Sat, 29 Dec 2018 13:25:51 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Dec 2018 22:36:54 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Dec 2018 22:36:54 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -204,7 +204,13 @@
     
       <item>
         <title>Signets Design</title>
-        <description>&lt;h1 id=&quot;best-practices&quot;&gt;Best Practices&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;bookmarks&quot;&gt;Bookmarks&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt; Website dedicated to sharing stock photography&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;best-practices&quot;&gt;Best Practices&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886&quot;&gt;7-practical-tips-for-cheating-at-design&lt;/a&gt;&lt;/li&gt;
@@ -228,7 +234,8 @@
 &lt;h1 id=&quot;libraries&quot;&gt;Libraries&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/nostalgic-css/NES.css&quot;&gt;NES.css&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/twbs/bootstrap&quot;&gt;twbs / bootstrap&lt;/a&gt; The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nostalgic-css/NES.css&quot;&gt;nostalgic-css/ NES.css&lt;/a&gt; NES-style CSS Framework&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 05 Nov 2018 16:35:00 +0000</pubDate>
