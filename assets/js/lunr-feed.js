@@ -102,7 +102,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Python",
       category: ["dev"],
-      content: "\n    \n\n\nPython libraries\n\n\n  bokeh\n  boto3\n  click\n  cookiecutter\n  datashader\n  diagram\n  docopt\n  flask\n  fuzzywuzzy\n  loguru\n  matplotlib\n  PyGitHub\n  requests\n\n\nPython tools\n\n\n  credstash\n\n\nCode Quality\n\n\n  black\n  coverage.py\n  flake8\n  pre-commit\n\n\nLearnings\n\n\n  30-seconds-of-python-code\n\n",
+      content: "\n    \n\n\nCurated lists\n\n\n  mahmoud / awesome-python-applications Free software that works great, and also happens to be open-source Python\n  vinta / awesome-python A curated list of awesome Python frameworks, libraries, software and resources\n\n\nPython libraries\n\n\n  bokeh\n  boto3\n  click\n  cookiecutter\n  datashader\n  diagram\n  docopt\n  flask\n  fuzzywuzzy\n  loguru\n  matplotlib\n  PyGitHub\n  requests\n\n\nPython tools\n\n\n  credstash\n\n\nCode Quality\n\n\n  black\n  coverage.py\n  flake8\n  pre-commit\n\n\nLearnings\n\n\n  30-seconds-of-python-code\n\n",
       tags: ["python","resources"],
       id: 10
     });
@@ -239,7 +239,7 @@ var store = [{
     "image": null,
     "date": "September 13, 2018",
     "category": ["dev"],
-    "excerpt": "Python libraries bokeh boto3 click cookiecutter datashader diagram docopt flask fuzzywuzzy loguru matplotlib PyGitHub requests Python tools credstash Code Quality..."
+    "excerpt": "Curated lists mahmoud / awesome-python-applications Free software that works great, and also happens to be open-source Python vinta / awesome-python..."
 },{
     "title": "Ressources DevOps",
     "link": "/devops/devops-resources.html",
