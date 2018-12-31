@@ -111,7 +111,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources DevOps",
       category: ["devops"],
-      content: "\n    \n\n\n\n  awesome-scalability\n  developer-roadmap\n  hubcommander\n\n",
+      content: "\n    \n\n\nAticles\n\n\n  octo / gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault\n\n\nTools\n\n\n  awesome-scalability\n  developer-roadmap\n  hubcommander\n\n",
       tags: ["resources"],
       id: 11
     });
@@ -246,7 +246,7 @@ var store = [{
     "image": null,
     "date": "September 2, 2018",
     "category": ["devops"],
-    "excerpt": "\n    \n\n\n\n  awesome-scalability\n  developer-roadmap\n  hubcommander\n\n"
+    "excerpt": "\n    \n\n\nAticles\n\n\n  octo / gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault\n\n\nTools\n\n\n  awesome-scalability\n  developer-roadmap\n  hubcommander\n\n"
 },{
     "title": "Chaos Monkey for Spring Boot",
     "link": "/dev/devops/chaos-monkey-spring-boot.html",
