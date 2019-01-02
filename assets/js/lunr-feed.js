@@ -57,7 +57,7 @@ var index = lunr(function () {
     index.add({
       title: "Signets Design",
       category: ["others"],
-      content: "Bookmarks\n\n\n  Unsplash Website dedicated to sharing stock photography\n\n\nBest Practices\n\n\n  7-practical-tips-for-cheating-at-design\n\n\nCodePen\n\n\n  Flappy Dino\n  Floating island with waterfall\n  Flying Carrot\n  Gravity Reverse\n  Kong3D\n  mix-blend-mode hadouken\n  Jurassic Internet\n  Low Poly Art Generator\n  Quarto\n  Time\n\n\nLibraries\n\n\n  twbs / bootstrap The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web\n  nostalgic-css/ NES.css NES-style CSS Framework\n\n",
+      content: "Bookmarks\n\n\n  Unsplash Website dedicated to sharing stock photography\n\n\nBest Practices\n\n\n  refactoring-ui / 7-practical-tips-for-cheating-at-design\n  uxplanet / ux-infinite-scrolling-vs-pagination\n\n\nCodePen\n\n\n  Flappy Dino\n  Floating island with waterfall\n  Flying Carrot\n  Gravity Reverse\n  Kong3D\n  mix-blend-mode hadouken\n  Jurassic Internet\n  Low Poly Art Generator\n  Quarto\n  Time\n\n\nLibraries\n\n\n  twbs / bootstrap The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web\n  nostalgic-css/ NES.css NES-style CSS Framework\n\n",
       tags: ["resources","design"],
       id: 5
     });
@@ -204,7 +204,7 @@ var store = [{
     "image": null,
     "date": "November 5, 2018",
     "category": ["others"],
-    "excerpt": "Bookmarks Unsplash Website dedicated to sharing stock photography Best Practices 7-practical-tips-for-cheating-at-design CodePen Flappy Dino Floating island with waterfall Flying Carrot..."
+    "excerpt": "Bookmarks Unsplash Website dedicated to sharing stock photography Best Practices refactoring-ui / 7-practical-tips-for-cheating-at-design uxplanet / ux-infinite-scrolling-vs-pagination CodePen Flappy Dino Floating..."
 },{
     "title": "Ressources Jeux Vidéo",
     "link": "/dev/video-games-resources.html",
