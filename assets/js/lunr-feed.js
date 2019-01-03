@@ -111,7 +111,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources DevOps",
       category: ["devops"],
-      content: "\n    \n\n\nArticles\n\n\n  cloudbees / 8-cicd-best-practices-your-devops-journey\n  octo / gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault\n\n\nTools\n\n\n  binhnguyennus / awesome-scalability\n  gruntwork-io / cloud-nuke A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it\n  kamranahmedse / developer-roadmap\n  Netflix / hubcommander\n\n",
+      content: "\n    \n\n\nArticles\n\n\n  cloudbees / 8-cicd-best-practices-your-devops-journey\n  octo / gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault\n\n\nTools\n\n\n  binhnguyennus / awesome-scalability\n  Google / chrome-devtools\n  Docker\n  Git\n  GitHub\n  Gitlab\n  gruntwork-io / cloud-nuke A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it\n  JetBrains / IntelliJ\n  kamranahmedse / developer-roadmap\n  Netflix / hubcommander\n  Postman\n  Slack\n\n",
       tags: ["resources"],
       id: 11
     });
@@ -246,7 +246,7 @@ var store = [{
     "image": null,
     "date": "September 2, 2018",
     "category": ["devops"],
-    "excerpt": "Articles cloudbees / 8-cicd-best-practices-your-devops-journey octo / gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault Tools binhnguyennus / awesome-scalability gruntwork-io / cloud-nuke A tool for cleaning up your..."
+    "excerpt": "Articles cloudbees / 8-cicd-best-practices-your-devops-journey octo / gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault Tools binhnguyennus / awesome-scalability Google / chrome-devtools Docker Git GitHub Gitlab gruntwork-io /..."
 },{
     "title": "Chaos Monkey for Spring Boot",
     "link": "/dev/devops/chaos-monkey-spring-boot.html",
