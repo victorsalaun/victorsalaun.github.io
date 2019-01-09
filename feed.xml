@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Jan 2019 22:06:07 +0000</pubDate>
-    <lastBuildDate>Wed, 09 Jan 2019 22:06:07 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Jan 2019 22:11:28 +0000</pubDate>
+    <lastBuildDate>Wed, 09 Jan 2019 22:11:28 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -141,6 +141,10 @@
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;articles&quot;&gt;Articles&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://victorsalaun.github.io/assets/pdf/Continuous_Delivery_Patterns_and_Anti_Patterns.pdf&quot;&gt;Continuous_Delivery_Patterns_and_Anti_Patterns.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Mon, 26 Nov 2018 17:25:00 +0000</pubDate>
         <link>https://victorsalaun.github.io/jenkins/jenkins-resources.html</link>
