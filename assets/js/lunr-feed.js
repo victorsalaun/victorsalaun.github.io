@@ -111,7 +111,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources DevOps",
       category: ["devops"],
-      content: "\n    \n\n\nArticles\n\n\n  cloudbees / 8-cicd-best-practices-your-devops-journey\n  octo / gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault\n\n\nTools\n\n\n  binhnguyennus / awesome-scalability\n  Google / chrome-devtools\n  Docker\n  FiloSottile / mkcert A simple zero-config tool to make locally trusted development certificates with any names you’d like.\n  Git\n  GitHub\n  Gitlab\n  gruntwork-io / cloud-nuke A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it\n  JetBrains / IntelliJ\n  kamranahmedse / developer-roadmap\n  Netflix / hubcommander\n  Postman\n  Slack\n\n",
+      content: "\n    \n\n\nArticles\n\n\n  cloudbees / 8-cicd-best-practices-your-devops-journey\n  octo / gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault\n\n\nTools\n\n\n  binhnguyennus / awesome-scalability\n  Google / chrome-devtools\n  Docker\n  FiloSottile / mkcert A simple zero-config tool to make locally trusted development certificates with any names you’d like.\n  Git\n  GitHub\n  Gitlab\n  gruntwork-io / cloud-nuke A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it\n  JetBrains / IntelliJ\n  kamranahmedse / developer-roadmap\n  Netflix / hubcommander\n  Postman\n  Slack\n  tmux/tmux\n\n",
       tags: ["resources"],
       id: 11
     });
