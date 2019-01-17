@@ -39,7 +39,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Jenkins",
       category: ["jenkins"],
-      content: "Best Practices\n\n\n  jenkinsci / BEST_PRACTICES\n\n\nPlugins\n\n\n  blueocean\n  config-file-provider\n  configuration-as-code-plugin\n  credentials-binding\n  folder-properties-plugin\n  git\n  github-oauth\n  job-dsl\n  kubernetes\n  parameterized-trigger\n  pipeline-utility-steps\n  role-strategy\n  slack\n  workflow-aggregator\n  workflow-job\n  workflow-scm-step\n\n\nScripts\n\n\n  cloudbees/jenkins-scripts\n  jenkinsci/jenkins-scripts\n\n\nArticles\n\n\n  Continuous_Delivery_Patterns_and_Anti_Patterns.pdf\n\n",
+      content: "Best Practices\n\n\n  jenkinsci / BEST_PRACTICES\n\n\nPlugins\n\n\n  blueocean\n  config-file-provider\n  configuration-as-code-plugin\n  credentials-binding\n  folder-properties-plugin\n  git\n  github-oauth\n  job-dsl\n  kubernetes\n  parameterized-trigger\n  pipeline-utility-steps\n  role-strategy\n  slack\n  workflow-aggregator\n  workflow-job\n  workflow-scm-step\n\n\nScripts\n\n\n  cloudbees/jenkins-scripts\n  jenkinsci/jenkins-scripts\n\n\nArticles\n\n\n  Continuous_Delivery_Patterns_and_Anti_Patterns.pdf\n  DZone / CI/CD for Kubernetes with Jenkins and Spinnaker\n\n",
       tags: ["resources"],
       id: 3
     });
