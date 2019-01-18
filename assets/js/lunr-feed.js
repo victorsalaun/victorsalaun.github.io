@@ -129,7 +129,7 @@ var index = lunr(function () {
     index.add({
       title: "JetBrains Plugins",
       category: ["dev"],
-      content: "\n    \n\n\nAny\n\n\n  .ignore\n  AsciiDoc\n  AWS Toolkit\n  Azure Toolkit\n  BashSupport\n  Docker integration\n  Markdown support\n  Rainbow Brackets\n\n\nIntelliJ\n\n\n  AWS CloudFormation\n  HashiCorp Terraform / HCL language support\n  Kotlin\n  Lombok Plugin\n  Makefile support\n  YAML/Ansible support\n\n\nWebStorm\n\n\n  AngularJS\n  Angular 2 TypeScript Live Templates\n  React Native Console\n  Vue.js\n\n\nInutiles donc indispensables\n\n\n  Nyan Progress Bar\n  Power Mode II\n\n",
+      content: "\n    \n\n\nAny\n\n\n  .ignore\n  AsciiDoc\n  AWS Toolkit\n  Azure Toolkit\n  BashSupport\n  Docker integration\n  Markdown support\n  Rainbow Brackets\n\n\nAndroid Studio\n\n\n  ADB Idea\n\n\nIntelliJ\n\n\n  AWS CloudFormation\n  HashiCorp Terraform / HCL language support\n  Kotlin\n  Lombok Plugin\n  Makefile support\n  YAML/Ansible support\n\n\nWebStorm\n\n\n  AngularJS\n  Angular 2 TypeScript Live Templates\n  React Native Console\n  Vue.js\n\n\nInutiles donc indispensables\n\n\n  Nyan Progress Bar\n  Power Mode II\n\n",
       tags: ["jetbrains","plugins"],
       id: 13
     });
@@ -260,7 +260,7 @@ var store = [{
     "image": null,
     "date": "April 9, 2018",
     "category": ["dev"],
-    "excerpt": "Any .ignore AsciiDoc AWS Toolkit Azure Toolkit BashSupport Docker integration Markdown support Rainbow Brackets IntelliJ AWS CloudFormation HashiCorp Terraform /..."
+    "excerpt": "Any .ignore AsciiDoc AWS Toolkit Azure Toolkit BashSupport Docker integration Markdown support Rainbow Brackets Android Studio ADB Idea IntelliJ AWS..."
 },{
     "title": "Terraform",
     "link": "/devops/terraform-infrastructure-as-code.html",
