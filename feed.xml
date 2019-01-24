@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Jan 2019 20:46:22 +0000</pubDate>
-    <lastBuildDate>Tue, 22 Jan 2019 20:46:22 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jan 2019 17:18:42 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jan 2019 17:18:42 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -357,6 +357,12 @@
         <description>&lt;p align=&quot;center&quot;&gt;
     &lt;img src=&quot;https://victorsalaun.github.io/assets/img/kubernetes.png&quot; title=&quot;kubernetes.png&quot; style=&quot;height: 286px; width: 300px;&quot; /&gt;
 &lt;/p&gt;
+
+&lt;h1 id=&quot;best-pratices&quot;&gt;Best Pratices&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/&quot;&gt;cncf / 9-kubernetes-security-best-practices-everyone-must-follow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&quot;tutorials&quot;&gt;Tutorials&lt;/h1&gt;
 

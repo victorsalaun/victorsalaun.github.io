@@ -93,7 +93,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Kubernetes",
       category: ["devops"],
-      content: "\n    \n\n\nTutorials\n\n\n  aws-workshop-for-kubernetes\n  continuous-deployment-on-kubernetes\n  smooth-sailing-with-kubernetes\n\n\nTools\n\n\n  awesome-kubernetes\n  goldpinger\n  helm\n  kube-bench\n  kube-ops-view\n  kubectl\n  kubespy\n  kubefwd\n  kustomize\n  minikube\n\n",
+      content: "\n    \n\n\nBest Pratices\n\n\n  cncf / 9-kubernetes-security-best-practices-everyone-must-follow\n\n\nTutorials\n\n\n  aws-workshop-for-kubernetes\n  continuous-deployment-on-kubernetes\n  smooth-sailing-with-kubernetes\n\n\nTools\n\n\n  awesome-kubernetes\n  goldpinger\n  helm\n  kube-bench\n  kube-ops-view\n  kubectl\n  kubespy\n  kubefwd\n  kustomize\n  minikube\n\n",
       tags: ["kubernetes","resources"],
       id: 9
     });
@@ -232,7 +232,7 @@ var store = [{
     "image": null,
     "date": "September 28, 2018",
     "category": ["devops"],
-    "excerpt": "\n    \n\n\nTutorials\n\n\n  aws-workshop-for-kubernetes\n  continuous-deployment-on-kubernetes\n  smooth-sailing-with-kubernetes\n\n\nTools\n\n\n  awesome-kubernetes\n  goldpinger\n  helm\n  kube-bench\n  kube-ops-view\n  kubectl\n  kubespy\n  kubefwd\n  kustomize\n  minikube\n\n"
+    "excerpt": "Best Pratices cncf / 9-kubernetes-security-best-practices-everyone-must-follow Tutorials aws-workshop-for-kubernetes continuous-deployment-on-kubernetes smooth-sailing-with-kubernetes Tools awesome-kubernetes goldpinger helm kube-bench kube-ops-view kubectl kubespy kubefwd kustomize minikube..."
 },{
     "title": "Ressources Python",
     "link": "/dev/python-resources.html",
