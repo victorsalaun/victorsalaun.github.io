@@ -111,7 +111,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources DevOps",
       category: ["devops"],
-      content: "\n    \n\n\nArticles\n\n\n  cloudbees / 8-cicd-best-practices-your-devops-journey\n  devopstopologies / devops-patterns What Team Structure is Right for DevOps to Flourish?\n  octo / gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault\n\n\nTools\n\n\n  antonmedv / fx\n  binhnguyennus / awesome-scalability\n  Google / chrome-devtools\n  Docker\n  FiloSottile / mkcert A simple zero-config tool to make locally trusted development certificates with any names you’d like.\n  Git\n  GitHub\n  Gitlab\n  gruntwork-io / cloud-nuke A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it\n  hashicorp / terraform\n  hashicorp / vagrant\n  hashicorp / vault\n  JetBrains / IntelliJ\n  kamranahmedse / developer-roadmap\n  Netflix / hubcommander\n  Postman\n  Slack\n  tmux/tmux\n\n",
+      content: "\n    \n\n\nArticles\n\n\n  cloudbees / 8-cicd-best-practices-your-devops-journey\n  devopstopologies / devops-patterns What Team Structure is Right for DevOps to Flourish?\n  octo / gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault\n  smashingmagazine / cloud-expert How To Sound Like A Cloud Expert\n\n\nTools\n\n\n  antonmedv / fx\n  binhnguyennus / awesome-scalability\n  Google / chrome-devtools\n  Docker\n  FiloSottile / mkcert A simple zero-config tool to make locally trusted development certificates with any names you’d like.\n  Git\n  GitHub\n  Gitlab\n  gruntwork-io / cloud-nuke A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it\n  hashicorp / terraform\n  hashicorp / vagrant\n  hashicorp / vault\n  JetBrains / IntelliJ\n  kamranahmedse / developer-roadmap\n  Netflix / hubcommander\n  Postman\n  Slack\n  tmux/tmux\n\n",
       tags: ["resources"],
       id: 11
     });
@@ -246,7 +246,7 @@ var store = [{
     "image": null,
     "date": "September 2, 2018",
     "category": ["devops"],
-    "excerpt": "Articles cloudbees / 8-cicd-best-practices-your-devops-journey devopstopologies / devops-patterns What Team Structure is Right for DevOps to Flourish? octo / gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault Tools..."
+    "excerpt": "Articles cloudbees / 8-cicd-best-practices-your-devops-journey devopstopologies / devops-patterns What Team Structure is Right for DevOps to Flourish? octo / gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault smashingmagazine..."
 },{
     "title": "Chaos Monkey for Spring Boot",
     "link": "/dev/devops/chaos-monkey-spring-boot.html",
