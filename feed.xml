@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Jan 2019 21:15:11 +0000</pubDate>
-    <lastBuildDate>Mon, 28 Jan 2019 21:15:11 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Feb 2019 08:54:23 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Feb 2019 08:54:23 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -378,6 +378,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/ramitsurana/awesome-kubernetes&quot;&gt;awesome-kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/derailed/k9s&quot;&gt;derailed / k9s&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/bloomberg/goldpinger&quot;&gt;goldpinger&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/helm/helm&quot;&gt;helm&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/aquasecurity/kube-bench&quot;&gt;kube-bench&lt;/a&gt;&lt;/li&gt;
