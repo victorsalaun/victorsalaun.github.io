@@ -66,7 +66,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Jeux Vidéo",
       category: ["dev"],
-      content: "Links\n\n\n  magictools\n\n",
+      content: "Links\n\n\n  ellisonleao / magictools\n  Kavex / GameDev-Resources\n\n",
       tags: ["resources","videogames"],
       id: 6
     });
@@ -211,7 +211,7 @@ var store = [{
     "image": null,
     "date": "November 2, 2018",
     "category": ["dev"],
-    "excerpt": "Links\n\n\n  magictools\n\n"
+    "excerpt": "Links\n\n\n  ellisonleao / magictools\n  Kavex / GameDev-Resources\n\n"
 },{
     "title": "Hacktoberfest 2018",
     "link": "/dev/hacktoberfest-2018.html",
