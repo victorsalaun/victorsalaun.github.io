@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Feb 2019 11:28:21 +0000</pubDate>
-    <lastBuildDate>Fri, 22 Feb 2019 11:28:21 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Feb 2019 15:28:13 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Feb 2019 15:28:13 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -401,7 +401,9 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/txn2/kubefwd&quot;&gt;kubefwd&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes-sigs/kustomize&quot;&gt;kustomize&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes/minikube&quot;&gt;minikube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/weaveworks/kured&quot;&gt;weaveworks / kured&lt;/a&gt; Kubernetes Reboot Daemon&lt;/li&gt;
 &lt;/ul&gt;
+
 </description>
         <pubDate>Fri, 28 Sep 2018 13:08:00 +0000</pubDate>
         <link>https://victorsalaun.github.io/devops/kubernetes-resources.html</link>

@@ -93,7 +93,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Kubernetes",
       category: ["devops"],
-      content: "\n    \n\n\nBest Pratices\n\n\n  cncf / 9-kubernetes-security-best-practices-everyone-must-follow\n\n\nTutorials\n\n\n  aws-workshop-for-kubernetes\n  continuous-deployment-on-kubernetes\n  ramitsurana / awesome-kubernetes\n  smooth-sailing-with-kubernetes\n\n\nTools\n\n\n  ahmetb / kubectx Switch faster between clusters and namespaces in kubectl\n  awesome-kubernetes\n  derailed / k9s\n  goldpinger\n  helm\n  kube-bench\n  kube-ops-view\n  kubectl\n  kubespy\n  kubefwd\n  kustomize\n  minikube\n\n",
+      content: "\n    \n\n\nBest Pratices\n\n\n  cncf / 9-kubernetes-security-best-practices-everyone-must-follow\n\n\nTutorials\n\n\n  aws-workshop-for-kubernetes\n  continuous-deployment-on-kubernetes\n  ramitsurana / awesome-kubernetes\n  smooth-sailing-with-kubernetes\n\n\nTools\n\n\n  ahmetb / kubectx Switch faster between clusters and namespaces in kubectl\n  awesome-kubernetes\n  derailed / k9s\n  goldpinger\n  helm\n  kube-bench\n  kube-ops-view\n  kubectl\n  kubespy\n  kubefwd\n  kustomize\n  minikube\n  weaveworks / kured Kubernetes Reboot Daemon\n\n\n",
       tags: ["kubernetes","resources"],
       id: 9
     });
