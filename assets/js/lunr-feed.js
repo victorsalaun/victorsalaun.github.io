@@ -12,7 +12,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Organisationnelles",
       category: ["human"],
-      content: "Links\n\n\n  d2si / onboarding\n  Leadership as continuous improvement\n  The responsive organization\n  The responsible organization\n\n",
+      content: "Links\n\n\n  d2si / onboarding\n  GitLab / lessons-on-building-a-distributed-company\n  ThoughtWorks / Leadership as continuous improvement\n  ThoughtWorks / The responsive organization\n  ThoughtWorks / The responsible organization\n\n",
       tags: ["resources","human"],
       id: 0
     });
@@ -169,7 +169,7 @@ var store = [{
     "image": null,
     "date": "December 18, 2018",
     "category": ["human"],
-    "excerpt": "Links\n\n\n  d2si / onboarding\n  Leadership as continuous improvement\n  The responsive organization\n  The responsible organization\n\n"
+    "excerpt": "Links d2si / onboarding GitLab / lessons-on-building-a-distributed-company ThoughtWorks / Leadership as continuous improvement ThoughtWorks / The responsive organization ThoughtWorks /..."
 },{
     "title": "Contributions Open Source",
     "link": "/dev/open-source-contributions.html",
