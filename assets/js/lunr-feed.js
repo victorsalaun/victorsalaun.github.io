@@ -66,7 +66,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Jeux Vidéo",
       category: ["dev"],
-      content: "Engines\n\n\n  unity3d\n  unrealengine\n\n\nLinks\n\n\n  ellisonleao / magictools\n  Kavex / GameDev-Resources\n\n",
+      content: "Engines\n\n\n  gb-studio\n  unity3d\n  unrealengine\n\n\nLinks\n\n\n  ellisonleao / magictools\n  Kavex / GameDev-Resources\n\n",
       tags: ["resources","videogames"],
       id: 6
     });
@@ -211,7 +211,7 @@ var store = [{
     "image": null,
     "date": "November 2, 2018",
     "category": ["dev"],
-    "excerpt": "Engines\n\n\n  unity3d\n  unrealengine\n\n\nLinks\n\n\n  ellisonleao / magictools\n  Kavex / GameDev-Resources\n\n"
+    "excerpt": "Engines\n\n\n  gb-studio\n  unity3d\n  unrealengine\n\n\nLinks\n\n\n  ellisonleao / magictools\n  Kavex / GameDev-Resources\n\n"
 },{
     "title": "Hacktoberfest 2018",
     "link": "/dev/hacktoberfest-2018.html",
