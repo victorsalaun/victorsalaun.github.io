@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Apr 2019 08:24:22 +0000</pubDate>
-    <lastBuildDate>Sun, 21 Apr 2019 08:24:22 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2019 18:39:13 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2019 18:39:13 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -407,6 +407,7 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/txn2/kubefwd&quot;&gt;kubefwd&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes-sigs/kustomize&quot;&gt;kustomize&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes/minikube&quot;&gt;minikube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/weaveworks/kubediff&quot;&gt;weaveworks / kubediff&lt;/a&gt; Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/weaveworks/kured&quot;&gt;weaveworks / kured&lt;/a&gt; Kubernetes Reboot Daemon&lt;/li&gt;
 &lt;/ul&gt;
 
