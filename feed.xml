@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 May 2019 15:44:35 +0000</pubDate>
-    <lastBuildDate>Wed, 15 May 2019 15:44:35 +0000</lastBuildDate>
+    <pubDate>Thu, 30 May 2019 16:40:53 +0000</pubDate>
+    <lastBuildDate>Thu, 30 May 2019 16:40:53 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -352,6 +352,7 @@
   &lt;li&gt;&lt;a href=&quot;https://github.com/gruntwork-io/terragrunt&quot;&gt;gruntwork-io / terragrunt&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/gruntwork-io/terratest&quot;&gt;gruntwork-io / terratest&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/hashicorp/terraform&quot;&gt;hashicorp / terraform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tfutils/tfenv&quot;&gt;tfutils / tfenv&lt;/a&gt; Terraform version manager&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;best-practices&quot;&gt;Best Practices&lt;/h1&gt;
