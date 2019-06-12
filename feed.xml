@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 May 2019 16:40:53 +0000</pubDate>
-    <lastBuildDate>Thu, 30 May 2019 16:40:53 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Jun 2019 16:38:24 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Jun 2019 16:38:24 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -44,6 +44,9 @@
 &lt;h1 id=&quot;contributions&quot;&gt;Contributions&lt;/h1&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/helm/charts&quot;&gt;helm / charts&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/build-timestamp-plugin&quot;&gt;jenkinsci/build-timestamp-plugin&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jenkinsci/config-file-provider-plugin&quot;&gt;jenkinsci/config-file-provider-plugin&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;
