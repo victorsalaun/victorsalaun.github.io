@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Jun 2019 07:54:32 +0000</pubDate>
-    <lastBuildDate>Fri, 28 Jun 2019 07:54:32 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jul 2019 08:38:40 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Jul 2019 08:38:40 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -291,6 +291,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/chrismaltby/gb-studio&quot;&gt;gb-studio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kitao/pyxel&quot;&gt;kitao / pyxel&lt;/a&gt; A retro game engine for Python&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://unity3d.com&quot;&gt;unity3d&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.unrealengine.com&quot;&gt;unrealengine&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

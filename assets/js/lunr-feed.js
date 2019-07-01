@@ -66,7 +66,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Jeux Vidéo",
       category: ["dev"],
-      content: "Articles\n\n\n  concevoir-un-jeu-video-combien-ca-coute-combien-ca-rapporte\n\n\nEngines\n\n\n  gb-studio\n  unity3d\n  unrealengine\n\n\nLinks\n\n\n  ellisonleao / magictools\n  Kavex / GameDev-Resources\n\n",
+      content: "Articles\n\n\n  concevoir-un-jeu-video-combien-ca-coute-combien-ca-rapporte\n\n\nEngines\n\n\n  gb-studio\n  kitao / pyxel A retro game engine for Python\n  unity3d\n  unrealengine\n\n\nLinks\n\n\n  ellisonleao / magictools\n  Kavex / GameDev-Resources\n\n",
       tags: ["resources","videogames"],
       id: 6
     });
@@ -211,7 +211,7 @@ var store = [{
     "image": null,
     "date": "November 2, 2018",
     "category": ["dev"],
-    "excerpt": "Articles\n\n\n  concevoir-un-jeu-video-combien-ca-coute-combien-ca-rapporte\n\n\nEngines\n\n\n  gb-studio\n  unity3d\n  unrealengine\n\n\nLinks\n\n\n  ellisonleao / magictools\n  Kavex / GameDev-Resources\n\n"
+    "excerpt": "Articles concevoir-un-jeu-video-combien-ca-coute-combien-ca-rapporte Engines gb-studio kitao / pyxel A retro game engine for Python unity3d unrealengine Links ellisonleao / magictools Kavex..."
 },{
     "title": "Hacktoberfest 2018",
     "link": "/dev/hacktoberfest-2018.html",
