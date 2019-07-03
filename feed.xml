@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Jul 2019 08:38:40 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Jul 2019 08:38:40 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Jul 2019 12:46:24 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Jul 2019 12:46:24 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -85,7 +85,13 @@
     
       <item>
         <title>Ressources Docker</title>
-        <description>&lt;h1 id=&quot;tools&quot;&gt;Tools&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;best-practices&quot;&gt;Best Practices&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/&quot;&gt;docker/ intro-guide-to-dockerfile-best-practices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;tools&quot;&gt;Tools&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://ctop.sh&quot;&gt;ctop&lt;/a&gt;&lt;/li&gt;

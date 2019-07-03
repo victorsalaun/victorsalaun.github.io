@@ -30,7 +30,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Docker",
       category: ["docker"],
-      content: "Tools\n\n\n  ctop\n  dive\n\n\nPresentations\n\n\n  advanced-docker-image-build-patterns\n\n",
+      content: "Best Practices\n\n\n  docker/ intro-guide-to-dockerfile-best-practices\n\n\nTools\n\n\n  ctop\n  dive\n\n\nPresentations\n\n\n  advanced-docker-image-build-patterns\n\n",
       tags: ["resources","docker"],
       id: 2
     });
@@ -183,7 +183,7 @@ var store = [{
     "image": null,
     "date": "November 29, 2018",
     "category": ["docker"],
-    "excerpt": "Tools\n\n\n  ctop\n  dive\n\n\nPresentations\n\n\n  advanced-docker-image-build-patterns\n\n"
+    "excerpt": "Best Practices\n\n\n  docker/ intro-guide-to-dockerfile-best-practices\n\n\nTools\n\n\n  ctop\n  dive\n\n\nPresentations\n\n\n  advanced-docker-image-build-patterns\n\n"
 },{
     "title": "Ressources Jenkins",
     "link": "/jenkins/jenkins-resources.html",
