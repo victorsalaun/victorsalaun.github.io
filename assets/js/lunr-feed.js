@@ -21,7 +21,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Organisationnelles",
       category: ["human"],
-      content: "Links\n\n\n  d2si / onboarding\n  GitLab / lessons-on-building-a-distributed-company\n  linkedin / how-get-anyone-do-almost-anything-you-want-bruce-kasanoff\n  ThoughtWorks / Leadership as continuous improvement\n  ThoughtWorks / The 8 tips to help you settle into your new team\n  ThoughtWorks / The responsive organization\n  ThoughtWorks / The responsible organization\n\n",
+      content: "Links\n\n\n  GitLab / tips-for-mastering-video-calls 5 Tips for mastering video calls\n  d2si / onboarding\n  GitLab / lessons-on-building-a-distributed-company\n  linkedin / how-get-anyone-do-almost-anything-you-want-bruce-kasanoff\n  ThoughtWorks / Leadership as continuous improvement\n  ThoughtWorks / The 8 tips to help you settle into your new team\n  ThoughtWorks / The responsive organization\n  ThoughtWorks / The responsible organization\n\n",
       tags: ["resources","human"],
       id: 1
     });
@@ -185,7 +185,7 @@ var store = [{
     "image": null,
     "date": "December 18, 2018",
     "category": ["human"],
-    "excerpt": "Links d2si / onboarding GitLab / lessons-on-building-a-distributed-company linkedin / how-get-anyone-do-almost-anything-you-want-bruce-kasanoff ThoughtWorks / Leadership as continuous improvement ThoughtWorks / The 8..."
+    "excerpt": "Links GitLab / tips-for-mastering-video-calls 5 Tips for mastering video calls d2si / onboarding GitLab / lessons-on-building-a-distributed-company linkedin / how-get-anyone-do-almost-anything-you-want-bruce-kasanoff ThoughtWorks..."
 },{
     "title": "Contributions Open Source",
     "link": "/dev/open-source-contributions.html",
