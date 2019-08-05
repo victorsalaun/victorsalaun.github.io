@@ -5,9 +5,28 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jul 2019 09:38:43 +0000</pubDate>
-    <lastBuildDate>Fri, 26 Jul 2019 09:38:43 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Aug 2019 09:53:39 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Aug 2019 09:53:39 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Ressources Agile</title>
+        <description>&lt;h1 id=&quot;links&quot;&gt;Links&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.goood.com/2019/07/23/pour-etre-agiles-arretons-detre-arrangeants&quot;&gt;goood / pour-etre-agiles-arretons-detre-arrangeants&lt;/a&gt; Pour être agiles, arrêtons d’être arrangeants !&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 26 Jul 2019 11:35:00 +0000</pubDate>
+        <link>https://victorsalaun.github.io/agile/agile-resources.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/agile/agile-resources.html</guid>
+        
+        <category>resources</category>
+        
+        
+        <category>agile</category>
+        
+      </item>
     
       <item>
         <title>Ressources Organisationnelles</title>
@@ -18,6 +37,7 @@
   &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/2019/04/18/lessons-on-building-a-distributed-company/&quot;&gt;GitLab / lessons-on-building-a-distributed-company&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/how-get-anyone-do-almost-anything-you-want-bruce-kasanoff/&quot;&gt;linkedin / how-get-anyone-do-almost-anything-you-want-bruce-kasanoff&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/leadership-continuous-improvement&quot;&gt;ThoughtWorks / Leadership as continuous improvement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/here-are-8-tips-help-you-settle-your-new-team&quot;&gt;ThoughtWorks / The 8 tips to help you settle into your new team&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/responsive-organization&quot;&gt;ThoughtWorks / The responsive organization&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.thoughtworks.com/insights/blog/responsible-organization&quot;&gt;ThoughtWorks / The responsible organization&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -384,60 +404,6 @@
         <category>resources</category>
         
         <category>terraform</category>
-        
-        
-        <category>devops</category>
-        
-      </item>
-    
-      <item>
-        <title>Ressources Kubernetes</title>
-        <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/kubernetes.png&quot; title=&quot;kubernetes.png&quot; style=&quot;height: 286px; width: 300px;&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h1 id=&quot;best-pratices&quot;&gt;Best Pratices&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/&quot;&gt;cncf / 9-kubernetes-security-best-practices-everyone-must-follow&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;tutorials&quot;&gt;Tutorials&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/aws-samples/aws-workshop-for-kubernetes&quot;&gt;aws-workshop-for-kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes&quot;&gt;continuous-deployment-on-kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ramitsurana/awesome-kubernetes&quot;&gt;ramitsurana / awesome-kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/kubernetes-engine/kubernetes-comic/&quot;&gt;smooth-sailing-with-kubernetes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;tools&quot;&gt;Tools&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ahmetb/kubectx&quot;&gt;ahmetb / kubectx&lt;/a&gt; Switch faster between clusters and namespaces in kubectl&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ramitsurana/awesome-kubernetes&quot;&gt;awesome-kubernetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/derailed/k9s&quot;&gt;derailed / k9s&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/bloomberg/goldpinger&quot;&gt;goldpinger&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/helm/helm&quot;&gt;helm&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/aquasecurity/kube-bench&quot;&gt;kube-bench&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/hjacobs/kube-ops-view&quot;&gt;kube-ops-view&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes/kubectl&quot;&gt;kubectl&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/pulumi/kubespy&quot;&gt;kubespy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/txn2/kubefwd&quot;&gt;kubefwd&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes-sigs/kustomize&quot;&gt;kustomize&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes/minikube&quot;&gt;minikube&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/weaveworks/kubediff&quot;&gt;weaveworks / kubediff&lt;/a&gt; Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/weaveworks/kured&quot;&gt;weaveworks / kured&lt;/a&gt; Kubernetes Reboot Daemon&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 28 Sep 2018 13:08:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/devops/kubernetes-resources.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/devops/kubernetes-resources.html</guid>
-        
-        <category>kubernetes</category>
-        
-        <category>resources</category>
         
         
         <category>devops</category>
