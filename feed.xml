@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Aug 2019 12:47:09 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Aug 2019 12:47:09 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Aug 2019 18:45:50 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Aug 2019 18:45:50 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -14,6 +14,7 @@
         <description>&lt;h1 id=&quot;links&quot;&gt;Links&lt;/h1&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/2019/08/13/agile-best-practices/&quot;&gt;GitLab / agile-best-practices&lt;/a&gt; 5 Agile best practices&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blog.goood.com/2019/07/23/pour-etre-agiles-arretons-detre-arrangeants&quot;&gt;goood / pour-etre-agiles-arretons-detre-arrangeants&lt;/a&gt; Pour être agiles, arrêtons d’être arrangeants !&lt;/li&gt;
 &lt;/ul&gt;
 </description>

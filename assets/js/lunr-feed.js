@@ -12,7 +12,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Agile",
       category: ["agile"],
-      content: "Links\n\n\n  goood / pour-etre-agiles-arretons-detre-arrangeants Pour être agiles, arrêtons d’être arrangeants !\n\n",
+      content: "Links\n\n\n  GitLab / agile-best-practices 5 Agile best practices\n  goood / pour-etre-agiles-arretons-detre-arrangeants Pour être agiles, arrêtons d’être arrangeants !\n\n",
       tags: ["resources"],
       id: 0
     });
@@ -178,7 +178,7 @@ var store = [{
     "image": null,
     "date": "July 26, 2019",
     "category": ["agile"],
-    "excerpt": "Links\n\n\n  goood / pour-etre-agiles-arretons-detre-arrangeants Pour être agiles, arrêtons d’être arrangeants !\n\n"
+    "excerpt": "Links\n\n\n  GitLab / agile-best-practices 5 Agile best practices\n  goood / pour-etre-agiles-arretons-detre-arrangeants Pour être agiles, arrêtons d’être arrangeants !\n\n"
 },{
     "title": "Ressources Organisationnelles",
     "link": "/human/organizational-resources.html",
