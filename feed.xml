@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Sep 2019 19:41:01 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Sep 2019 19:41:01 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Sep 2019 08:06:57 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Sep 2019 08:06:57 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -66,6 +66,9 @@
 &lt;h1 id=&quot;contributions&quot;&gt;Contributions&lt;/h1&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/fluxcd/flux&quot;&gt;fluxcd / flux&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://github.com/helm/charts&quot;&gt;helm / charts&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
