@@ -5,9 +5,39 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Oct 2019 20:10:56 +0000</pubDate>
-    <lastBuildDate>Wed, 02 Oct 2019 20:10:56 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Oct 2019 15:42:20 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Oct 2019 15:42:20 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>SREcon 2019</title>
+        <description>&lt;p align=&quot;center&quot;&gt;
+    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/srecon.png&quot; title=&quot;SREcon-2019.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h1 id=&quot;talks&quot;&gt;Talks&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Scaling SRE Organizations: The Journey from 1 to Many Teams&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://victorsalaun.github.io/assets/pdf/srecon2019/sre19amer_slides_franco.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8abila1aUog&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 02 Oct 2019 21:58:00 +0000</pubDate>
+        <link>https://victorsalaun.github.io/devops/SREcon-2019.html</link>
+        <guid isPermaLink="true">https://victorsalaun.github.io/devops/SREcon-2019.html</guid>
+        
+        <category>sre</category>
+        
+        
+        <category>devops</category>
+        
+      </item>
     
       <item>
         <title>Ressources Agile</title>
@@ -380,41 +410,6 @@
         
         
         <category>dev</category>
-        
-      </item>
-    
-      <item>
-        <title>Ressources Terraform</title>
-        <description>&lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://victorsalaun.github.io/assets/img/terraform.png&quot; title=&quot;terraform.png&quot; style=&quot;height: 300px; width: 300px;&quot; /&gt;
-&lt;/p&gt;
-
-&lt;h1 id=&quot;tools&quot;&gt;Tools&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/GoogleCloudPlatform/terraformer&quot;&gt;GoogleCloudPlatform / terraformer&lt;/a&gt; CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/gruntwork-io/terragrunt&quot;&gt;gruntwork-io / terragrunt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/gruntwork-io/terratest&quot;&gt;gruntwork-io / terratest&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/hashicorp/terraform&quot;&gt;hashicorp / terraform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/tfutils/tfenv&quot;&gt;tfutils / tfenv&lt;/a&gt; Terraform version manager&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;best-practices&quot;&gt;Best Practices&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/ozbillwang/terraform-best-practices&quot;&gt;terraform-best-practices&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 29 Sep 2018 02:04:00 +0000</pubDate>
-        <link>https://victorsalaun.github.io/devops/terraform-resources.html</link>
-        <guid isPermaLink="true">https://victorsalaun.github.io/devops/terraform-resources.html</guid>
-        
-        <category>resources</category>
-        
-        <category>terraform</category>
-        
-        
-        <category>devops</category>
         
       </item>
     
