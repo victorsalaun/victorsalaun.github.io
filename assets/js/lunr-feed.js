@@ -30,7 +30,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Organisationnelles",
       category: ["human"],
-      content: "Links\n\n\n  d2si / onboarding\n  GitLab / lessons-on-building-a-distributed-company\n  GitLab / tips-for-mastering-video-calls 5 Tips for mastering video calls\n  hbrfrance / il-suffit-de-10-des-collaborateurs-pour-changer-toute-lentreprise Il suffit de 10% des collaborateurs pour changer toute l’entreprise\n  linkedin / how-get-anyone-do-almost-anything-you-want-bruce-kasanoff\n  ThoughtWorks / Leadership as continuous improvement\n  ThoughtWorks / The 8 tips to help you settle into your new team\n  ThoughtWorks / The responsive organization\n  ThoughtWorks / The responsible organization\n  welcometothejungle / invisible-grande-entreprise Comment ne pas être invisible dans une grande boîte ?\n  Zenika / techniques-faciles-de-manipulation 3 techniques faciles de manipulation  0\n\n",
+      content: "Links\n\n\n  d2si / onboarding\n  enterprisersproject / devops-vs-middle-managers DevOps vs. middle managers: 5 tips to knock out resistance\n  GitLab / lessons-on-building-a-distributed-company\n  GitLab / tips-for-mastering-video-calls 5 Tips for mastering video calls\n  hbrfrance / il-suffit-de-10-des-collaborateurs-pour-changer-toute-lentreprise Il suffit de 10% des collaborateurs pour changer toute l’entreprise\n  linkedin / how-get-anyone-do-almost-anything-you-want-bruce-kasanoff\n  ThoughtWorks / Leadership as continuous improvement\n  ThoughtWorks / The 8 tips to help you settle into your new team\n  ThoughtWorks / The responsive organization\n  ThoughtWorks / The responsible organization\n  welcometothejungle / invisible-grande-entreprise Comment ne pas être invisible dans une grande boîte ?\n  Zenika / techniques-faciles-de-manipulation 3 techniques faciles de manipulation  0\n\n",
       tags: ["resources","human"],
       id: 2
     });
@@ -201,7 +201,7 @@ var store = [{
     "image": null,
     "date": "December 18, 2018",
     "category": ["human"],
-    "excerpt": "Links d2si / onboarding GitLab / lessons-on-building-a-distributed-company GitLab / tips-for-mastering-video-calls 5 Tips for mastering video calls hbrfrance / il-suffit-de-10-des-collaborateurs-pour-changer-toute-lentreprise Il..."
+    "excerpt": "Links d2si / onboarding enterprisersproject / devops-vs-middle-managers DevOps vs. middle managers: 5 tips to knock out resistance GitLab / lessons-on-building-a-distributed-company..."
 },{
     "title": "Contributions Open Source",
     "link": "/dev/open-source-contributions.html",
