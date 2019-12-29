@@ -39,7 +39,7 @@ var index = lunr(function () {
     index.add({
       title: "Contributions Open Source",
       category: ["dev"],
-      content: "\n    \n\n\nContributions\n\n\n  \n    bltavares / actions\n  \n  \n    fluxcd / flux\n  \n  \n    helm / charts\n  \n  jenkinsci/build-timestamp-plugin\n  jenkinsci/config-file-provider-plugin\n  \n    jenkinsci/configuration-as-code-plugin\n  \n  SofteamOuest/referentiel-personnes-ui\n  \n    SofteamOuest/softeamouest-terraform-github-organization\n  \n  voyages-sncf-technologies/hesperides\n  voyages-sncf-technologies/hesperides-cli\n  voyages-sncf-technologies/hesperides-data-migration\n  voyages-sncf-technologies/hesperides-gui\n  voyages-sncf-technologies/hesperides-jenkins-lib\n  voyages-sncf-technologies/terraform-provider-hesperides\n\n\nDocumentation\n\n\n  opensource.guide\n\n",
+      content: "\n    \n\n\nContributions\n\n\n  \n    bltavares / actions\n  \n  \n    elastic / helm-charts\n  \n  \n    fluxcd / flux\n  \n  \n    helm / charts\n  \n  jenkinsci/build-timestamp-plugin\n  jenkinsci/config-file-provider-plugin\n  \n    jenkinsci/configuration-as-code-plugin\n  \n  SofteamOuest/referentiel-personnes-ui\n  \n    SofteamOuest/softeamouest-terraform-github-organization\n  \n  voyages-sncf-technologies/hesperides\n  voyages-sncf-technologies/hesperides-cli\n  voyages-sncf-technologies/hesperides-data-migration\n  voyages-sncf-technologies/hesperides-gui\n  voyages-sncf-technologies/hesperides-jenkins-lib\n  voyages-sncf-technologies/terraform-provider-hesperides\n\n\nDocumentation\n\n\n  opensource.guide\n\n",
       tags: ["github","open-source"],
       id: 3
     });
@@ -208,7 +208,7 @@ var store = [{
     "image": null,
     "date": "December 8, 2018",
     "category": ["dev"],
-    "excerpt": "Contributions bltavares / actions fluxcd / flux helm / charts jenkinsci/build-timestamp-plugin jenkinsci/config-file-provider-plugin jenkinsci/configuration-as-code-plugin SofteamOuest/referentiel-personnes-ui SofteamOuest/softeamouest-terraform-github-organization voyages-sncf-technologies/hesperides voyages-sncf-technologies/hesperides-cli voyages-sncf-technologies/hesperides-data-migration voyages-sncf-technologies/hesperides-gui voyages-sncf-technologies/hesperides-jenkins-lib..."
+    "excerpt": "Contributions bltavares / actions elastic / helm-charts fluxcd / flux helm / charts jenkinsci/build-timestamp-plugin jenkinsci/config-file-provider-plugin jenkinsci/configuration-as-code-plugin SofteamOuest/referentiel-personnes-ui SofteamOuest/softeamouest-terraform-github-organization voyages-sncf-technologies/hesperides voyages-sncf-technologies/hesperides-cli..."
 },{
     "title": "Ressources Docker",
     "link": "/docker/docker-resources.html",
