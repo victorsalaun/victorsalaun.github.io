@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Dec 2019 22:55:43 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Dec 2019 22:55:43 +0000</lastBuildDate>
+    <pubDate>Sun, 29 Dec 2019 07:00:51 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Dec 2019 07:00:51 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -41,7 +41,9 @@
     
       <item>
         <title>Ressources Agile</title>
-        <description>&lt;h1 id=&quot;links&quot;&gt;Links&lt;/h1&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://agilemanifesto.org&quot;&gt;Agile Manifesto&lt;/a&gt; for Software Developemnt&lt;/p&gt;
+
+&lt;h1 id=&quot;links&quot;&gt;Links&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/2019/08/13/agile-best-practices/&quot;&gt;GitLab / agile-best-practices&lt;/a&gt; 5 Agile best practices&lt;/li&gt;
