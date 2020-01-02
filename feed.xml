@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jan 2020 10:51:07 +0000</pubDate>
-    <lastBuildDate>Thu, 02 Jan 2020 10:51:07 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jan 2020 22:21:10 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jan 2020 22:21:10 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -42,6 +42,12 @@
       <item>
         <title>Ressources Agile</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://agilemanifesto.org&quot;&gt;Agile Manifesto&lt;/a&gt; for Software Developemnt&lt;/p&gt;
+
+&lt;h1 id=&quot;guides&quot;&gt;Guides&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/agile&quot;&gt;Atlassian / Agile&lt;/a&gt; Atlassian’s no-nonsense guide to agile development&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&quot;links&quot;&gt;Links&lt;/h1&gt;
 

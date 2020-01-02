@@ -21,7 +21,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Agile",
       category: ["agile"],
-      content: "Agile Manifesto for Software Developemnt\n\nLinks\n\n\n  GitLab / agile-best-practices 5 Agile best practices\n  goood / pour-etre-agiles-arretons-detre-arrangeants Pour être agiles, arrêtons d’être arrangeants !\n\n",
+      content: "Agile Manifesto for Software Developemnt\n\nGuides\n\n\n  Atlassian / Agile Atlassian’s no-nonsense guide to agile development\n\n\nLinks\n\n\n  GitLab / agile-best-practices 5 Agile best practices\n  goood / pour-etre-agiles-arretons-detre-arrangeants Pour être agiles, arrêtons d’être arrangeants !\n\n",
       tags: ["resources"],
       id: 1
     });
@@ -194,7 +194,7 @@ var store = [{
     "image": null,
     "date": "July 26, 2019",
     "category": ["agile"],
-    "excerpt": "Agile Manifesto for Software Developemnt Links GitLab / agile-best-practices 5 Agile best practices goood / pour-etre-agiles-arretons-detre-arrangeants Pour être agiles, arrêtons..."
+    "excerpt": "Agile Manifesto for Software Developemnt Guides Atlassian / Agile Atlassian’s no-nonsense guide to agile development Links GitLab / agile-best-practices 5..."
 },{
     "title": "Ressources Organisationnelles",
     "link": "/human/organizational-resources.html",
