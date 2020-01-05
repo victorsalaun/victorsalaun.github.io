@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jan 2020 11:43:20 +0000</pubDate>
-    <lastBuildDate>Sun, 05 Jan 2020 11:43:20 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jan 2020 11:50:17 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Jan 2020 11:50:17 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -169,7 +169,9 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://ctop.sh&quot;&gt;ctop&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/wagoodman/dive&quot;&gt;dive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hadolint/hadolint&quot;&gt;hadolint / hadolint&lt;/a&gt; Dockerfile linter, validate inline bash, written in Haskell&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jesseduffield/lazydocker&quot;&gt;jesseduffield / lazydocker&lt;/a&gt; The lazier way to manage everything docker&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wagoodman/dive&quot;&gt;wagoodman / dive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;presentations&quot;&gt;Presentations&lt;/h1&gt;
