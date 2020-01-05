@@ -102,7 +102,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Terraform",
       category: ["devops"],
-      content: "\n    \n\n\nTools\n\n\n  GoogleCloudPlatform / terraformer CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code\n  gruntwork-io / terragrunt\n  gruntwork-io / terratest\n  hashicorp / terraform\n  liamg / tfsec Static analysis powered security scanner for your terraform code\n  tfutils / tfenv Terraform version manager\n\n\nBest Practices\n\n\n  terraform-best-practices\n\n",
+      content: "\n    \n\n\nTools\n\n\n  GoogleCloudPlatform / terraformer CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code\n  gruntwork-io / terragrunt\n  gruntwork-io / terratest\n  hashicorp / terraform\n  liamg / tfsec Static analysis powered security scanner for your terraform code\n  terraform-linters / tflint TFLint is a Terraform linter focused on possible errors, best practices, etc. (Terraform &gt;= 0.12)\n  tfutils / tfenv Terraform version manager\n\n\nBest Practices\n\n\n  terraform-best-practices\n\n",
       tags: ["resources","terraform"],
       id: 10
     });
