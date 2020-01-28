@@ -120,7 +120,7 @@ var index = lunr(function () {
     index.add({
       title: "Ressources Python",
       category: ["dev"],
-      content: "\n    \n\n\nCurated lists\n\n\n  mahmoud / awesome-python-applications Free software that works great, and also happens to be open-source Python\n  vinta / awesome-python A curated list of awesome Python frameworks, libraries, software and resources\n\n\nPython libraries\n\n\n  bokeh\n  boto3\n  click\n  cookiecutter\n  datashader\n  diagram\n  docopt\n  flask\n  fuzzywuzzy\n  loguru\n  matplotlib\n  prompt-toolkit / python-prompt-toolkit\n  PyGitHub\n  requests\n  pyca / cryptography\n\n\nPython tools\n\n\n  credstash\n\n\nCode Quality\n\n\n  black\n  coverage.py\n  flake8\n  Microsoft / pyright Static type checker for Python\n  pre-commit\n\n\nLearnings\n\n\n  30-seconds-of-python-code\n  gto76 / python-cheatsheet\n\n",
+      content: "\n    \n\n\nCurated lists\n\n\n  mahmoud / awesome-python-applications Free software that works great, and also happens to be open-source Python\n  vinta / awesome-python A curated list of awesome Python frameworks, libraries, software and resources\n\n\nPython libraries\n\n\n  bokeh\n  boto3\n  click\n  cookiecutter\n  datashader\n  diagram\n  docopt\n  flask\n  fuzzywuzzy\n  loguru\n  matplotlib\n  prompt-toolkit / python-prompt-toolkit\n  PyGitHub\n  requests\n  pyca / cryptography\n  python / mypy\n\n\nPython tools\n\n\n  credstash\n\n\nCode Quality\n\n\n  black\n  coverage.py\n  flake8\n  Microsoft / pyright Static type checker for Python\n  pre-commit\n\n\nLearnings\n\n\n  30-seconds-of-python-code\n  gto76 / python-cheatsheet\n\n",
       tags: ["python","resources"],
       id: 12
     });
