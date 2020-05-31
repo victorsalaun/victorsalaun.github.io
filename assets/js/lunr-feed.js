@@ -12,7 +12,7 @@ var index = lunr(function () {
     index.add({
       title: "SREcon 2019",
       category: ["devops"],
-      content: "\n    \n\n\nTalks\n\n\n  \n    Scaling SRE Organizations: The Journey from 1 to Many Teams\n\n    \n      Slides\n      Video\n    \n  \n\n",
+      content: "\n    \n\n\nTalks\n\n\n  \n    Creating a Code Review Culture\n\n    \n      Slides\n      Video\n    \n  \n  \n    One on One SRE (incident)\n\n    \n      Slides\n      Video\n    \n  \n  \n    Running Excellent Retrospectives: Talking for Humans\n\n    \n      Slides\n      Video\n    \n  \n  \n    Scaling SRE Organizations: The Journey from 1 to Many Teams\n\n    \n      Slides\n      Video\n    \n  \n  \n    What I Wish I Knew before Going On-call\n\n    \n      Slides\n      Video\n    \n  \n\n",
       tags: ["sre"],
       id: 0
     });
@@ -187,7 +187,7 @@ var store = [{
     "image": null,
     "date": "October 2, 2019",
     "category": ["devops"],
-    "excerpt": "\n    \n\n\nTalks\n\n\n  \n    Scaling SRE Organizations: The Journey from 1 to Many Teams\n\n    \n      Slides\n      Video\n    \n  \n\n"
+    "excerpt": "Talks Creating a Code Review Culture Slides Video One on One SRE (incident) Slides Video Running Excellent Retrospectives: Talking for..."
 },{
     "title": "Ressources Agile",
     "link": "/agile/agile-resources.html",

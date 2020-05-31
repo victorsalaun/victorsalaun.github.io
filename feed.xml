@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 May 2020 19:36:21 +0000</pubDate>
-    <lastBuildDate>Fri, 29 May 2020 19:36:21 +0000</lastBuildDate>
+    <pubDate>Sun, 31 May 2020 16:28:41 +0000</pubDate>
+    <lastBuildDate>Sun, 31 May 2020 16:28:41 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -19,11 +19,43 @@
 
 &lt;ul&gt;
   &lt;li&gt;
+    &lt;p&gt;Creating a Code Review Culture&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://victorsalaun.github.io/assets/pdf/srecon2019/sre19amer_slides_turner.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=S3m2TUdBzdk&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;One on One SRE (incident)&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://victorsalaun.github.io/assets/pdf/srecon2019/sre19amer_slides_tobey.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=EMFiF-G10WY&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Running Excellent Retrospectives: Talking for Humans&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://victorsalaun.github.io/assets/pdf/srecon2019/sre19amer_slides_eckhardt.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dljCjqywKFo&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Scaling SRE Organizations: The Journey from 1 to Many Teams&lt;/p&gt;
 
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;https://victorsalaun.github.io/assets/pdf/srecon2019/sre19amer_slides_franco.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8abila1aUog&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What I Wish I Knew before Going On-call&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://victorsalaun.github.io/assets/pdf/srecon2019/sre19amer_slides_wang.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=97_uOZAtPJ4&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
