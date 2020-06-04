@@ -5,8 +5,8 @@
     <description></description>
     <link>https://victorsalaun.github.io/</link>
     <atom:link href="https://victorsalaun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 May 2020 16:28:41 +0000</pubDate>
-    <lastBuildDate>Sun, 31 May 2020 16:28:41 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2020 07:45:53 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2020 07:45:53 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -327,6 +327,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/googlesamples/android-architecture-components&quot;&gt;googlesamples / android-architecture-components&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/skydoves/Pokedex&quot;&gt;skydoves / Pokedex&lt;/a&gt; Android Pokedex using Dagger Hilt, Motion, Coroutines, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 06 Nov 2018 10:07:00 +0000</pubDate>
